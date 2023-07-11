@@ -29,12 +29,12 @@ For your second milestone, explain what you've worked on since your previous mil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
 
 # First Milestone
-For my first Milestone, I present my Robotic Arm Claw. It is controlled by two Potentiometers that send inputs to the nano, that process them as outputs for the servos.
+For my first Milestone, I present my Robotic Arm Claw. It is controlled by two Potentiometers that send inputs to the nano, which process them as outputs for the servos. I faced a lot of challenges while trying to complete this milestone. First, the battery I was using had too much power, making the arm unable to calibrate. This was fixed simply by switching out the battery to the one it was supposed to have in the first place. The biggest takeaway from this first milestone was how detail-oriented I would need to be for the rest of my project. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JJNtc4UcqHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Starter Milestone
-This is my Starter project. It is dubbed the useless box. You turn the switch, and the motor inside turns the switch back. It works by having mechanisms triggered by the switch and then reversed once the switch is returned to its original position. My biggest problem with the starter was ensuring everything was correctly placed.
+This is my Starter project. It is dubbed the useless box. You turn the switch, and the motor inside turns the switch back. It works by having mechanisms triggered by the switch and then reversed once the switch is returned to its original position. My biggest problem with the starter was ensuring everything was correctly placed. If they weren't, then the whole thing would not work. The biggest takeaway I got from my starter project was learning to be careful with my soldering and such. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jnHKEDy3mJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

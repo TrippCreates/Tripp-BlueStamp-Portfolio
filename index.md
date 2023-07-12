@@ -15,6 +15,15 @@
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE-->
+This is my final milestone, a wireless robotic arm! I ended up switching from Bluetooth to Radio Control, which improved the process, but before I came to that solution, I faced many different things.
+
+So, since my second milestone, I can now have complete control over the robotic arm without having any hindrances from wires, which is a pretty big step up from just being able to turn an LED on and off. 
+
+The biggest challenge I faced while trying to do my project was dealing with the code on Arduino. Before I realized that I needed a different battery or that the code I was using was faulty, I poured over every line trying to figure out what one thing was going wrong. In both cases, the problems were bigger than just one line of code or just the code itself, but I still spent literal days trying to find out the problem. 
+
+My biggest triumph of the robotic arm was definitely coming up with the genius idea of using Radio Control instead of Bluetooth. The Bluetooth code I was using would not work because it was meant for different hardware, so switching over to Radio Control was my best bet. It would mean that my arm would still be wireless, and I would have more exact control over the arm itself.
+
+The key topics I have learned at BSE have definitely been 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zhlpQxOPvQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

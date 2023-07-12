@@ -1,4 +1,4 @@
-# Phone Controlled Robotic Arm
+# Wireless Robotic Arm
 <!---Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails-->
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
@@ -30,8 +30,11 @@ For your second milestone, explain what you've worked on since your previous mil
 
 # First Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JJNtc4UcqHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-For my first Milestone, I present my Robotic Arm Claw. It is controlled by two Potentiometers that send inputs to the nano, which process them as outputs for the servos. I faced a lot of challenges while trying to complete this milestone. First, the battery I was using had too much power, making the arm unable to calibrate. This was fixed simply by switching out the battery to the one it was supposed to have in the first place. The biggest takeaway from this first milestone was how detail-oriented I would need to be for the rest of my project. 
+For my first Milestone, I present my Robotic Arm Claw. It is controlled by two Potentiometers that send inputs to the nano, which process them as outputs for the servos. I faced many challenges while trying to complete this milestone. Let's go over a few.
 
+While building the arm itself, I realized multiple servos I was using were not working, so I had to take a bunch of them out, do a lot of testing, and then try and find enough servos that worked to make my project work. I found a code that made it really easy to find out which servos worked, so this streamlined my process a lot.
+
+While trying to wire the arm, 
 
 # Starter Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jnHKEDy3mJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

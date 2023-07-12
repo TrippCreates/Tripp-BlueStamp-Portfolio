@@ -9,42 +9,46 @@
 
 ![Headstone Image](logo.svg)
   
-<!--# Final Milestone
--For your final milestone, explain the outcome of your project. Key details to include are:
+# Final Milestone
+<!---For your final milestone, explain the outcome of your project. Key details to include are:
 - What you've accomplished since your previous milestone
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
+- What you hope to learn in the future after everything you've learned at BSE-->
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zhlpQxOPvQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Second Milestone
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
+<!---For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+- What needs to be completed before your final milestone--> 
+This is the second milestone of my wireless robotic arm. For this milestone, I demonstrate how I have set up Bluetooth on the phone and can control an LED. 
 
+So far, the most surprising part of the project is how simple yet complicated it is. The things that I thought would be hard like building the hardware, or setting up the arm to be wireless, turned out to be easier than I originally predicted. But the stuff I thought would be simple, like wiring, batteries, and LEDs, became much harder. For example, while simple, the LED was so difficult to handle because of their flimsy legs, and I ended up using a lot more LEDs than I thought I ever would since they were so hard to deal with. 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>-->
+Before I can say I have completed my third and final milestone, I need to be able to control my arm wirelessly. Whether with Bluetooth on the phone like I showcased here or with Radio Control or something different. I do not know how difficult it will be to go from controlling an LED wirelessly to controlling a whole robotic arm, but I am excited about that challenge. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Xx3lmexvCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # First Milestone
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JJNtc4UcqHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 For my first Milestone, I present my Robotic Arm Claw. It is controlled by two Potentiometers that send inputs to the nano, which process them as outputs for the servos. I faced many challenges while trying to complete this milestone. Let's go over a few.
 
 While building the arm itself, I realized multiple servos I was using were not working, so I had to take a bunch of them out, do a lot of testing, and then try and find enough servos that worked to make my project work. I found a code that made finding out which servos worked easy, so this greatly streamlined my process.
 
 While trying to wire the arm, I discovered how detail-oriented I needed to be. If even one wire were out of place, nothing would work. I spent so much time trying to find what I did wrong with my project and why some things would work and others would not, and it turned out my wires were not in the right place.
 
-The main challenge I faced was dealing with the voltage. When I finally had everything wired correctly and all servos working, I tried booting up the arm code, and the arm would start going crazy. I poured over the code and looked at every little line trying to find out what went wrong. Finally, I looked at the manual and it turns out that the arm works with 7-8 volts, and I was using a 9-volt battery to power it. So, I switched batteries, and finally, the arm worked perfectly with the potentiometer joystick, and my first milestone was done. 
+The main challenge I faced was dealing with the voltage. When I finally had everything wired correctly and all servos working, I tried booting up the arm code, and the arm would start going crazy. I poured over the code and looked at every little line trying to find out what went wrong. Finally, I looked at the manual and it turns out that the arm works with 7-8 volts, and I was using a 9-volt battery to power it. So, I switched batteries, and finally, the arm worked perfectly with the potentiometer joystick, and my first milestone was done.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JJNtc4UcqHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> 
 
 # Starter Milestone
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnHKEDy3mJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 This is my Starter project. It is dubbed the useless box. You turn the switch, and the motor inside turns the switch back. It works by having mechanisms triggered by the switch and then reversed once the switch is returned to its original position. 
 
 My biggest problem with the starter was ensuring everything was correctly placed. If they weren't, then the whole thing would not work. While I was building it, I was following the instructions, and I was not too focused on trying to make sure everything was correct. So, the first time I tried to get it to work, the lever would fall off its axis, and it would miss the switch altogether. So, I broke the whole thing apart and put it all together, but this time, focusing exactly on where things went. I tried it again, and the lever turned the switch off, and the useless box worked.
 
 The biggest takeaway from my starter project was learning to be careful with my project and learning to be precise. This being the first milestone of many, it taught me how hard the rest of the milestones would be. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnHKEDy3mJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!---# Schematics 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
@@ -84,4 +88,4 @@ One of the best parts about Github is that you can view how other people set up 
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
 - [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
 
-To watch the BSE tutorial on how to create a portfolio, click here.-->
+To watch the BSE tutorial on how to create a portfolio, click here.

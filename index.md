@@ -32,9 +32,11 @@ For your second milestone, explain what you've worked on since your previous mil
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JJNtc4UcqHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 For my first Milestone, I present my Robotic Arm Claw. It is controlled by two Potentiometers that send inputs to the nano, which process them as outputs for the servos. I faced many challenges while trying to complete this milestone. Let's go over a few.
 
-While building the arm itself, I realized multiple servos I was using were not working, so I had to take a bunch of them out, do a lot of testing, and then try and find enough servos that worked to make my project work. I found a code that made it really easy to find out which servos worked, so this streamlined my process a lot.
+While building the arm itself, I realized multiple servos I was using were not working, so I had to take a bunch of them out, do a lot of testing, and then try and find enough servos that worked to make my project work. I found a code that made it easy to find out which servos worked, so this greatly streamlined my process.
 
-While trying to wire the arm, 
+While trying to wire the arm, I discovered how detail-oriented I needed to be. If even one wire were out of place, nothing would work. I spent so much time trying to find what I did wrong with my project and why some things would work and others would not, and it turned out my wires were not in the right place.
+
+The main challenge I faced was dealing with the voltage. When I finally had everything wired correctly and all servos working, I tried booting up the arm code, and the arm would start going crazy. I poured over the code and looked at every little line trying to find out what went wrong. Finally, I looked at the manual and it turns out that the arm works with 7-8 volts, and I was using a 9-volt battery to power it. So, I switched batteries, and finally, the arm worked perfectly with the potentiometer joystick, and my first milestone was done. 
 
 # Starter Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jnHKEDy3mJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

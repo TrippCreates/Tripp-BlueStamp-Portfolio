@@ -15,6 +15,7 @@ My project is a wireless robotic arm, that is modified by being attached to a RC
 - What your biggest challenges and triumphs were at BSE
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE-->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zhlpQxOPvQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 This is my final milestone, a wireless robotic arm! I switched from Bluetooth to Radio Control, which improved the process, but before I came to that solution, I faced many different things.
 
 So, since my second milestone, I can now have complete control over the robotic arm without having any hindrances from wires, which is a pretty big step up from just being able to turn an LED on and off. 
@@ -25,21 +26,19 @@ My biggest triumph of the robotic arm was definitely coming up with the genius i
 
 The key topics I have learned at BSE have definitely been 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zhlpQxOPvQI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 # Second Milestone
 <!---For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone--> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5Xx3lmexvCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 This is the second milestone of my wireless robotic arm. For this milestone, I demonstrate how I have set up Bluetooth on the phone and can control an LED. 
 
 So far, the most surprising part of the project is how simple yet complicated it is. The things that I thought would be hard like building the hardware, or setting up the arm to be wireless, turned out to be easier than I originally predicted. But the stuff I thought would be simple, like wiring, batteries, and LEDs, became much harder. For example, while simple, the LED was so difficult to handle because of their flimsy legs, and I ended up using a lot more LEDs than I thought I ever would since they were so hard to deal with. 
 
 Before I can say I have completed my third and final milestone, I need to be able to control my arm wirelessly. Whether with Bluetooth on the phone like I showcased here or with Radio Control or something different. I do not know how difficult it will be to go from controlling an LED wirelessly to controlling a whole robotic arm, but I am excited about that challenge. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5Xx3lmexvCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # First Milestone
 For my first Milestone, I present my Robotic Arm Claw. It is controlled by two Potentiometers that send inputs to the nano, which process them as outputs for the servos. I faced many challenges while trying to complete this milestone. Let's go over a few.

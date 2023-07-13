@@ -64,7 +64,7 @@ Here's where you'll put images of your schematics. [Tinkercad](https://www.tinke
 
 # Code
 
-Code to Control Arm (Wired):
+Code to Control Arm (Milestone 1):
 ```c++
 #include "src/CokoinoArm.h"
 #define buzzerPin 9
@@ -204,6 +204,7 @@ void loop() {
   Do_action();
 }
 ```
+Code for Bluetooth LED (Milestone 2):
 ```c++
 #define ledPin 7
 int state = 0;

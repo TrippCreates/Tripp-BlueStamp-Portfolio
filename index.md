@@ -24,7 +24,7 @@ The biggest challenge I faced while trying to do my project was dealing with the
 
 My biggest triumph of the robotic arm was definitely coming up with the genius idea of using Radio Control instead of Bluetooth. The Bluetooth code I was using would not work because it was meant for different hardware, so switching over to Radio Control was my best bet. It would mean that my arm would still be wireless, and I would have more exact control over the arm itself.
 
-The key topics I have learned at BSE have definitely been 
+The key topics I have learned at BSE have definitely been learning about using dremels or soldering irons. On top of this, I have learned more about coding, mainly in Arduino, as well as learning about CAD in OnShape. Overall, my biggest takeaway from my project, is perseverance, and pushing yourself to continuing solving the problem your stuck on.
 
 # Second Milestone
 <!---For your second milestone, explain what you've worked on since your previous milestone. You can highlight:

@@ -63,8 +63,8 @@ The biggest takeaway from my starter project was learning to be careful with my 
 Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser.-->
 
 # Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
 
+Code to Control Arm (Wired):
 ```c++
 #include "src/CokoinoArm.h"
 #define buzzerPin 9
@@ -202,6 +202,33 @@ void loop() {
   turnCO();
   C_action();
   Do_action();
+}
+```
+```c++
+#define ledPin 7
+int state = 0;
+
+void setup() {
+  pinMode(ledPin, OUTPUT);
+  digitalWrite(ledPin, LOW);
+  Serial.begin(38400); // Default communication rate of the Bluetooth module
+}
+
+void loop() {
+  if(Serial.available() > 0){ // Checks whether data is comming from the serial port
+    state = Serial.read(); // Reads the data from the serial port
+ }
+
+ if (state == '0') {
+  digitalWrite(ledPin, LOW); // Turn LED OFF
+  Serial.println("LED: OFF"); // Send back, to the phone, the String "LED: ON"
+  state = 0;
+ }
+ else if (state == '1') {
+  digitalWrite(ledPin, HIGH);
+  Serial.println("LED: ON");;
+  state = 0;
+ } 
 }
 ```
 

@@ -1,5 +1,5 @@
 # Wireless Robotic Arm
-<!---Replace this text with a brief description (2-3 sentences) of your project. This description should draw the reader in and make them interested in what you've built. You can include what the biggest challenges, takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails-->
+My project is a wireless robotic arm, that is modified by being attached to a RC car built from scratch. The biggest challenge of this project was by far trying to build a car from scratch, because all the parts I used were not meant to go together, and I had to spend a lot of time trying to make everything work. The biggest takeaway was that working hard and staying focused pays off because while something may be hard, there is a solution to that problem, and it is up to you to find it.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|

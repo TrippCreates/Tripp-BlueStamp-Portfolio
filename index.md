@@ -62,8 +62,12 @@ The biggest takeaway from my starter project was learning to be careful with my 
 
 # Schematics 
 
+Axle Adapter
 <img width="489" alt="Screen Shot 2023-07-17 at 2 46 36 PM" src="https://github.com/TrippCreates/Tripp-BlueStamp-Portfolio/assets/136486404/59d1743a-5d80-4d41-9a85-cb9a997184d3">
+
+Axle Mount
 <img width="841" alt="Screen Shot 2023-07-17 at 2 45 39 PM" src="https://github.com/TrippCreates/Tripp-BlueStamp-Portfolio/assets/136486404/a6da9c0a-6421-4764-83b2-c49c10f30a5e">
+
 # Code
 
 Code to Control Arm (Milestone 1):

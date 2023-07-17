@@ -78,7 +78,7 @@ int act[act_max][4];    //Only can change the number of action
 int num=0,num_do=0;
 ///////////////////////////////////////////////////////////////
 void turnUD(void){
-  if(xL!=512){
+  if(xL!=512){ //Moves Arm from Left Joystick
     if(0<=xL && xL<=100){arm.up(10);return;}
     if(900<xL && xL<=1024){arm.down(10);return;} 
     if(100<xL && xL<=200){arm.up(20);return;}
@@ -93,7 +93,7 @@ void turnUD(void){
 }
 ///////////////////////////////////////////////////////////////
 void turnLR(void){
-  if(yL!=512){
+  if(yL!=512){ //Moves Arm from Left Joystick
     if(0<=yL && yL<=100){arm.right(0);return;}
     if(900<yL && yL<=1024){arm.left(0);return;}  
     if(100<yL && yL<=200){arm.right(5);return;}
@@ -108,7 +108,7 @@ void turnLR(void){
 }
 ///////////////////////////////////////////////////////////////
 void turnCO(void){
-  if(xR!=512){
+  if(xR!=512){ //Moves Arm from Right Joystick
     if(0<=xR && xR<=100){arm.close(0);return;}
     if(900<xR && xR<=1024){arm.open(0);return;} 
     if(100<xR && xR<=200){arm.close(5);return;}
@@ -122,7 +122,7 @@ void turnCO(void){
     }
 }
 ///////////////////////////////////////////////////////////////
-void date_processing(int *x,int *y){
+void date_processing(int *x,int *y){ //Time
   if(abs(512-*x)>abs(512-*y))
     {*y = 512;}
   else
@@ -130,7 +130,7 @@ void date_processing(int *x,int *y){
 }
 ///////////////////////////////////////////////////////////////
 void buzzer(int H,int L){
-  while(yR<420){
+  while(yR<420){ //Error Beep
     digitalWrite(buzzerPin,HIGH);
     delayMicroseconds(H);
     digitalWrite(buzzerPin,LOW);
@@ -147,7 +147,7 @@ void buzzer(int H,int L){
 }
 ///////////////////////////////////////////////////////////////
 void C_action(void){
-  if(yR>800){
+  if(yR>800){ 
     int *p;
     p=arm.captureAction();
     for(char i=0;i<4;i++){
@@ -166,7 +166,7 @@ void C_action(void){
 }
 ///////////////////////////////////////////////////////////////
 void Do_action(void){
-  if(yR<220){
+  if(yR<220){ //Error Beep
     buzzer(200,300);
     for(int i=0;i<num_do;i++){
       arm.do_action(act[i],15);

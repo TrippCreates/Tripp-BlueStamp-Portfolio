@@ -61,6 +61,7 @@ My biggest problem with the starter was ensuring everything was correctly placed
 The biggest takeaway from my starter project was learning to be careful with my project and learning to be precise. This being the first milestone of many, it taught me how hard the rest of the milestones would be. 
 
 # Schematics 
+
 <img width="489" alt="Screen Shot 2023-07-17 at 2 46 36 PM" src="https://github.com/TrippCreates/Tripp-BlueStamp-Portfolio/assets/136486404/59d1743a-5d80-4d41-9a85-cb9a997184d3">
 <img width="841" alt="Screen Shot 2023-07-17 at 2 45 39 PM" src="https://github.com/TrippCreates/Tripp-BlueStamp-Portfolio/assets/136486404/a6da9c0a-6421-4764-83b2-c49c10f30a5e">
 # Code
@@ -251,4 +252,3 @@ Don't forget to place the link of where to buy each component inside the quotati
 Here Are Some Resources I used to create my Final Project.
 - [Starter Project Instructions](http://www.spikenzielabs.com/Downloadables/uselessmachine/Useless-Machine-Soldering-Edition.pdf)
 - [Robot Arm Instructions, Test Code, ETC.](https://github.com/Cokoino/CKK0006)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)

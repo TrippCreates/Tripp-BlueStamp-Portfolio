@@ -246,14 +246,12 @@ void loop() {
 ```
 
 # Bill of Materials
-Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
-Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:| 
 |Brushless RC Motor|It is the motor for the car|$16.99| <a href= "https://www.amazon.com/FLASH-HOBBY-Brushless-Multicopters-Helicopter/dp/B089YN9WM9/ref=sr_1_4?crid=2N1L4C3VMAL3L&keywords=rc%2Bmotor&qid=1689274087&s=toys-and-games&sprefix=rc%2Bmoto%2Ctoys-and-games%2C163&sr=1-4&th=1"> Link </a>|
 | 30A ESC | To Have Speed Control over the Car | $16.99 | <a href= "https://www.amazon.com/RC-Brushless-Electric-Controller-bullet/dp/B071GRSFBD/ref=pd_bxgy_sccl_1/130-2510493-2350145?pd_rd_w=Tpt7i&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=BWF4MRYYFR352B441YN7&pd_rd_wg=c4Kas&pd_rd_r=55405d14-455a-41be-95ae-b7396496c584&pd_rd_i=B071GRSFBD&psc=1"> Link </a> |
-|Cokoino Robotic Arm|It is the Robotic Arm Project|$49.99| <a href= "https://www.amazon.com/LK-COKOINO-Compliment-Engineering-Technology/dp/B081FG1JQ1"> Link </a|
+|Cokoino Robotic Arm|It is the Robotic Arm Project|$49.99| <a href= "https://www.amazon.com/LK-COKOINO-Compliment-Engineering-Technology/dp/B081FG1JQ1"> Link </a>|
 |3 in 1 IoT/Smart Car| Wheels, Servos, Chassis, and misc. parts| $89.99 | <a href="https://www.amazon.com/SunFounder-Compatible-Tutorials-Including-Controller/dp/B0B778L1DZ"> Link </a> |
 | Various 3D Printed Parts | Check Schematics | N/A | N/A |
 

@@ -13,6 +13,13 @@ My project is a wireless robotic arm, that is modified by being attached to a RC
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C0H6fZZQpzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+Since my last milestone for my main project, I decided to build a custom RC car, that has the Robotic Claw mounted to its Chassis. It took a lot of work, as well as a lot of creativity, but I was able to successfully make a mobile Claw. 
+
+The challenge I faced the most while trying to create a successful mod, was taking all of these random parts, that do not belong together, and having to modify them to work together. I had to do a lot of drilling or dremeling, as well as a lot of measuring. I found that most of the time, the parts would work together, but I ended up having to redo a couple sections of my project because my measurment was off, or my idea would not work, so I spent lots of time redoing stuff. 
+
+For this part of my project, I learned a lot about the mechanical side of engineering. None of the work I was doing was really computerized, and I got to use a lot of tools, and different ways of creating, I also got to have complete freedom of innovation which was really fun, because I have not had that before.
+
+After this, I hope to continue learning about engineering, specifically Mechanical, Biomedical, or Aerospace. I have learned so much with my time at Blue Stamps, and I am excited to keep up with that. For my project itself, I will want to make it more presentable, with decorations or a body shell. 
 
   
 # Final Milestone

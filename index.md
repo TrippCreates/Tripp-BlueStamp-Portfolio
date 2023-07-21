@@ -7,7 +7,8 @@ My project is a wireless robotic arm, that is modified by being attached to a RC
 
 <!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**-->
 
-![Headshot](https://github.com/TrippCreates/Tripp-BlueStamp-Portfolio/assets/136486404/63ebf290-fa12-4ff9-aedc-e960fadb6790)
+![Headshot](https://github.com/TrippCreates/Tripp-BlueStamp-Portfolio/assets/136486404/d74c0726-d896-482a-a306-049c14b1bfb1)
+
 
 
 

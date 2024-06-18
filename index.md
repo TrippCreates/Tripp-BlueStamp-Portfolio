@@ -26,7 +26,7 @@ For this part of my project, I learned a lot about the mechanical side of engine
 After this, I hope to continue learning about engineering, specifically Mechanical, Biomedical, or Aerospace. I have learned so much with my time at Blue Stamps, and I am excited to keep up with that. For my project itself, I will want to make it more presentable, with decorations or a body shell. 
 
   
-# Final Milestone
+# Third Milestone
 <!---For your final milestone, explain the outcome of your project. Key details to include are:
 - What you've accomplished since your previous milestone
 - What your biggest challenges and triumphs were at BSE

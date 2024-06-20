@@ -12,13 +12,13 @@ Hi, I'm Tripp Thomas, a passionate maker and creator. I love building things tha
 **Description:** I built this RC Airplane from a design I created. It has a foam body and various electronics, such as servos, an ESC, and a brushless motor, to help it go airborne. 
 
 ## [Custom Drone](./drone.md)
-**Description:** A brief description of your project. Highlight the key features and technologies used.
+**Description:** Like many of my projects, this started as an ambitious idea that turned into a whole adventure. I built this drone out of parts I had leftover from past projects along with some new ones that I ordered online. Through lots of soldering and desoldering, I got it to work and it was an awesome experience.
 
 ## [Custom RC Car with Robotic Claw](./car.md)
-**Description:** A brief description of your project. Highlight the key features and technologies used.
+**Description:** I built this car at a local program over the Summer, the claw itself was not too bad, but creating the car was very hard as I had limited part options, and then integrating the two posed the largest challenge. However, I loved the experience and program so much that I landed a paid-internship at the company the following Summer. 
 
 ## [3D Printed Model Rocket](./rocket.md)
-**Description:** A brief description of your project. Highlight the key features and technologies used.
+**Description:** This project was a blast. It was a truly from scratch design, I 3D printed almost every part, and if it wasn't 3D printed it came from some leftover junk in my garage. The only ordered part of the rocket was the engine itself. The creativity and innovation I had to use to make this project a success truly made it one of my most favorite engineering ventures.
 
 ## Contact
 Feel free to contact me on [LinkedIn](your_linkedin_profile), or via [email](mailto:geraldrtripp@gmail.com).

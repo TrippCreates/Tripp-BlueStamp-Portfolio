@@ -1,5 +1,5 @@
 # Foam RC Airplane
-My first large scale project, the Foam RC Airplane that I built from scratch. The biggest challenge of this project came when trying to make the plane balance and easily flyable. I was a worse pilot than I was engineer. Even so, I knew almost nothing about aerodynamics, and really any physics overall going into this, but that made the experience that much better because I got to learn so much from it. The biggest takeaway is that integration is really hard. I easily put together the electronics, and then in turn the hardware which was really just a foam plane design I made up, but integrating the two, and getting them to work well together took literal months, where every night I was attempting to get the two opposing forces to come together in harmony
+My first large-scale project was the Foam RC Airplane that I built from scratch. The biggest challenge of this project came when trying to make the plane balanced and easily flyable. I was a worse pilot than I was an engineer. Even so, I knew almost nothing about aerodynamics and any physics overall going into this, but that made the experience much better because I learned so much from it. The biggest takeaway is that integration is really hard. I easily put together the electronics and then in turn, the hardware, which was just a foam plane design I made up, but integrating the two and getting them to work well together took literal months, where every night I was attempting to get the two opposing forces to come together in harmony
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -19,13 +19,13 @@ My first large scale project, the Foam RC Airplane that I built from scratch. Th
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C0H6fZZQpzA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-Since my last milestone for my main project, I decided to build a custom RC car, that has the Robotic Claw mounted to its Chassis. It took a lot of work, as well as a lot of creativity, but I was able to successfully make a mobile Claw. 
+This was the last milestone for my plane project, which was a successful flight of around 15-20 seconds. My original stated goal for the venture was to take off and land; however, my piloting skills were so bad that it really just came down to proving my design was flyable. A much better pilot than myself would have likely thrived with my plane. However, I am not a pilot. So, for my fifth iteration of the plane, I was satisfied with what I got and figured through all the hardship, late nights, and endless YouTube tutorials, I could call it a win. 
 
-The challenge I faced the most while trying to create a successful mod, was taking all of these random parts, that do not belong together, and having to modify them to work together. I had to do a lot of drilling or dremeling, as well as a lot of measuring. I found that most of the time, the parts would work together, but I ended up having to redo a couple sections of my project because my measurment was off, or my idea would not work, so I spent lots of time redoing stuff. 
+My biggest challenge for this part of the project was just creating consistent conditions for myself so that I could get better at flying without damaging the plane. 
 
-For this part of my project, I learned a lot about the mechanical side of engineering. None of the work I was doing was really computerized, and I got to use a lot of tools, and different ways of creating, I also got to have complete freedom of innovation which was really fun, because I have not had that before.
+For this part of my project, I learned a lot about resilience. I knew that the design that I held in my plans worked; it really just came down to myself becoming a better flying and figuring out a way to do that without constantly crashing my plane. 
 
-After this, I hope to continue learning about engineering, specifically Mechanical, Biomedical, or Aerospace. I have learned so much with my time at Blue Stamps, and I am excited to keep up with that. For my project itself, I will want to make it more presentable, with decorations or a body shell. 
+This was pretty much my first true engineering project, it was a wonderful experience and spurred me to continue chasing my passion and fervor for the subject. While it was hard to stay persistent, I learned a lot about creating things, and even more about what I love. 
 
   
 # Third Milestone

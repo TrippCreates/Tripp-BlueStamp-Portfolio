@@ -5,7 +5,7 @@ Another project of mine is a Foam RC Airplane that I built from scratch. The big
 |:--:|:--:|:--:|:--:|
 | Tripp T. | Los Gatos High School | Aerospace/Mechanical Engineering | Junior
 
-[Homepage](./index.md)
+## [Back To Homepage](./index.md)
 
 
 <!--**Replace the headshot below with a picture with the plane. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**-->

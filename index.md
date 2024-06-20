@@ -5,19 +5,19 @@ Hi, I'm Tripp Thomas, a passionate maker and creator. I love building things tha
 
 ![Profile Picture](https://github.com/TrippCreates/Tripp-Makers-Portfolio/blob/1f49a0c1ea3686c21695eb7b9b10acb33d39e61b/Files/Headshot.jpeg)
 
-## My Projects
-Here are some of the projects I've been working on:
+## What I've Been Working On:
 
-[RC Foam Airplane](./plane.md)
+
+## [RC Foam Airplane](./plane.md)
 **Description:** I built this RC Airplane from a design I created. It has a foam body and various electronics, such as servos, an ESC, and a brushless motor, to help it go airborne. 
 
-[Custom Drone](./drone.md)
+## [Custom Drone](./drone.md)
 **Description:** A brief description of your project. Highlight the key features and technologies used.
 
-[Custom RC Car with Robotic Claw](./car.md)
+## [Custom RC Car with Robotic Claw](./car.md)
 **Description:** A brief description of your project. Highlight the key features and technologies used.
 
-[3D Printed Model Rocket](./rocket.md)
+## [3D Printed Model Rocket](./rocket.md)
 **Description:** A brief description of your project. Highlight the key features and technologies used.
 
 ## Contact

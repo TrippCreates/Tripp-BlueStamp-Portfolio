@@ -9,16 +9,16 @@ Hi, I'm Tripp Thomas, a passionate maker and creator. I love building things tha
 
 
 ## [RC Foam Airplane](./plane.md)
-**Description:** I built this RC Airplane from a design I created. It has a foam body and various electronics, such as servos, an ESC, and a brushless motor, to help it go airborne. 
+**TLDR:** This plane was one of the first larger scale projects I made. It took me months to get right, but it introduced me to the engineering experience and I fell in love. I came up with the design on my own, integrating foam board with some RC parts, and after many iterations I got it to fly and it was incredibly exciting for me, and even more so my father who filmed all my attempts. 
 
 ## [Custom Drone](./drone.md)
-**Description:** Like many of my projects, this started as an ambitious idea that turned into a whole adventure. I built this drone out of parts I had leftover from past projects along with some new ones that I ordered online. Through lots of soldering and desoldering, I got it to work and it was an awesome experience.
+**TLDR:** Like many of my projects, this started as an ambitious idea that turned into a whole adventure. I built this drone out of parts I had leftover from past projects along with some new ones that I ordered online. Through lots of soldering and desoldering, I got it to work and it was an awesome experience.
 
 ## [Custom RC Car with Robotic Claw](./car.md)
-**Description:** I built this car at a local program over the Summer, the claw itself was not too bad, but creating the car was very hard as I had limited part options, and then integrating the two posed the largest challenge. However, I loved the experience and program so much that I landed a paid-internship at the company the following Summer. 
+**TLDR:** I built this car at a local program over the Summer, the claw itself was not too bad, but creating the car was very hard as I had limited part options, and then integrating the two posed the largest challenge. However, I loved the experience and program so much that I landed a paid-internship at the company the following Summer. 
 
 ## [3D Printed Model Rocket](./rocket.md)
-**Description:** This project was a blast. It was a truly from scratch design, I 3D printed almost every part, and if it wasn't 3D printed it came from some leftover junk in my garage. The only ordered part of the rocket was the engine itself. The creativity and innovation I had to use to make this project a success truly made it one of my most favorite engineering ventures.
+**TLDR:** This project was a blast. It was a truly from scratch design, I 3D printed almost every part, and if it wasn't 3D printed it came from some leftover junk in my garage. The only ordered part of the rocket was the engine itself. The creativity and innovation I had to use to make this project a success truly made it one of my most favorite engineering ventures.
 
 ## Contact
 Feel free to contact me on [LinkedIn](your_linkedin_profile), or via [email](mailto:geraldrtripp@gmail.com).

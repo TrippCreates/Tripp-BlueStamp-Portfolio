@@ -3,7 +3,7 @@
 ## About Me
 Hi, I'm Tripp Thomas, a passionate maker and creator. I love building things that can bring satisfaction to my creative aspirations. My interests span various fields, including electronics, programming, 3D printing, and hardware. While many of my projects incorporate these various disciplines, I focus my interest mainly on Aerospace and Mechanical Engineering ventures. Explore my projects below to see what I've been working on.
 
-![Profile Picture](path_to_your_image.jpg)
+![Profile Picture](Files/Headshot.jpeg)
 
 ## My Projects
 Here are some of the projects I've been working on:

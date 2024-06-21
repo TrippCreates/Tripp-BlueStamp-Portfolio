@@ -11,7 +11,6 @@ My first large-scale project was the Foam RC Airplane that I built from scratch.
 <!--**Replace the headshot below with a picture with the plane. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**-->
 
 ![Crash](https://github.com/TrippCreates/Tripp-Makers-Portfolio/blob/6f7cbcde6e229d97462e9707ea8d4882c69384da/Files/Crash.jpeg)
-![InFlight](https://github.com/TrippCreates/Tripp-Makers-Portfolio/blob/6f7cbcde6e229d97462e9707ea8d4882c69384da/Files/InAir.jpeg)
 
 
 

@@ -16,7 +16,7 @@ My first large-scale project was the Foam RC Airplane that I built from scratch.
 
 # Third/Final Milestone
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=_G9nHn8xFMI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_G9nHn8xFMI?si=Z0ufIZd0SuiaE42G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 This was the last milestone for my plane project, which was a successful flight of around 15-20 seconds. My original stated goal for the venture was to take off and land; however, my piloting skills were so bad that it really just came down to proving my design was flyable. A much better pilot than myself would have likely thrived with my plane. However, I am not a pilot. So, for my fifth iteration of the plane, I was satisfied with what I got and figured through all the hardship, late nights, and endless YouTube tutorials, I could call it a win. 
 

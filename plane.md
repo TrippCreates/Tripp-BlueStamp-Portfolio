@@ -33,9 +33,9 @@ This was my first true engineering project. It was a wonderful experience and sp
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
 - What needs to be completed before your final milestone--> 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5Xx3lmexvCQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZehPrCIDyY8?si=jOcj3EqlN-hbe0HE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-This is the second milestone of my wireless robotic arm. For this milestone, I demonstrate how I have set up Bluetooth on the phone and can control an LED. 
+This is the second milestone of my foam RC Plane. For this milestone I am making solid attempts at flight, but still struggling to get consistently up in the air.
 
 So far, the most surprising part of the project is how simple yet complicated it is. The things that I thought would be hard like building the hardware, or setting up the arm to be wireless, turned out to be easier than I originally predicted. But the stuff I thought would be simple, like wiring, batteries, and LEDs, became much harder. For example, while simple, the LED was so difficult to handle because of their flimsy legs, and I ended up using a lot more LEDs than I thought I ever would since they were so hard to deal with. 
 

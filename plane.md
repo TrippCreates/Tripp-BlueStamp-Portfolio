@@ -53,7 +53,7 @@ While trying to wire the arm, I discovered how detail-oriented I needed to be. I
 The main challenge I faced was dealing with the voltage. When I finally had everything wired correctly and all servos working, I tried booting up the arm code, and the arm would start going crazy. I poured over the code and looked at every little line trying to find out what went wrong. Finally, I looked at the manual and it turns out that the arm works with 7-8 volts, and I was using a 9-volt battery to power it. So, I switched batteries, and finally, the arm worked perfectly with the potentiometer joystick, and my first milestone was done. 
 
 # RC Wiring Diagram
-![Diagram](https://github.com/TrippCreates/Tripp-Makers-Portfolio/blob/5396b158b0109cc24733bda655267705b3fdfda3/Files/RC%20Wiring%20Schematic.jpeg)
+![Wiring Diagram](./images/RC Wiring Schematic.jpeg)
 
 
 

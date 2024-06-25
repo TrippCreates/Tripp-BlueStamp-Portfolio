@@ -33,16 +33,16 @@ This was my first true engineering project. It was a wonderful experience and sp
 - What needs to be completed before your final milestone--> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZehPrCIDyY8?si=jOcj3EqlN-hbe0HE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-**Overview**
+\\**Overview**\
 This is the second milestone of my foam RC Plane. For this milestone I am making solid attempts at flight, but still struggling to get consistently up in the air.
 
-**Accomplishments**
+**Accomplishments**\
 Some technical accomplishments I've made is that the hardware and electronics for the plane are done. I have the design down, so even if I were to crash and break it, I could rebuild it and it would work. I made a couple switches since the first iteration that might not be obvious. First, I made the front sturdier to hold the propeller in properly. By combining screws, glue, and a solid piece of wood, I was able to make a solid place for the motor to attach to. I've also made some organizational changes within the chassis. I was having problems with the battery sliding back and unplugging, or just shifting the center of gravity while in the air, so I made a system using some wooden dowels that keeps the battery firmly in place.
 
-**Challenges**
+**Challenges**\
 The biggest challenge so far has been take-offs. I cannot consistently set up a way for myself to get up in the air and actually practice flying around. Every time I go out to fly, I try to take off, and for the most part, the plane just floats down, hits the ground, and breaks off its propeller. 
 
-**Next Step**
+**Next Step**\
 Before I can say I am done with this project, I want sustained flight. No matter how I take off it does not matter, if my plane is in the air and I am in control, I am happy and I can say I am done. 
 
 # First Milestone

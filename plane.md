@@ -1,5 +1,5 @@
 # Foam RC Airplane
-My first large-scale project was the Foam RC Airplane that I built from scratch. The biggest challenge of this project came when trying to make the plane balanced and easily flyable. I was a worse pilot than I was an engineer. Even so, I knew almost nothing about aerodynamics and any physics overall going into this, but that made the experience much better because I learned so much from it. The biggest takeaway is that integration is really hard. I easily put together the electronics and then in turn, the hardware, which was just a foam plane design I made up, but integrating the two and getting them to work well together took literal months, where every night I was attempting to get the two opposing forces to come together in harmony
+My first large-scale project was the Foam RC Airplane, which I built from scratch. The biggest challenge of this project came when trying to make the plane balanced and easily flyable. I was a worse pilot than I was an engineer. Even so, I knew almost nothing about aerodynamics and any physics overall going into this, but that made the experience much better because I learned so much from it. The biggest takeaway is that integration is really hard. I easily put together the electronics and then in turn, the hardware, which was just a foam plane design I made up, but integrating the two and getting them to work well together took literal months, where every night I was attempting to get the two opposing forces to come together in harmony
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -7,8 +7,6 @@ My first large-scale project was the Foam RC Airplane that I built from scratch.
 
 ## [Back To Homepage](./index.md)
 
-
-<!--**Replace the headshot below with a picture with the plane. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**-->
 
 ![Crash](./images/Crash.jpeg)
 
@@ -35,11 +33,17 @@ This was my first true engineering project. It was a wonderful experience and sp
 - What needs to be completed before your final milestone--> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZehPrCIDyY8?si=jOcj3EqlN-hbe0HE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+**Overview**
 This is the second milestone of my foam RC Plane. For this milestone I am making solid attempts at flight, but still struggling to get consistently up in the air.
 
-So far, the most surprising part of the project is how simple yet complicated it is. The things that I thought would be hard like building the hardware, or setting up the arm to be wireless, turned out to be easier than I originally predicted. But the stuff I thought would be simple, like wiring, batteries, and LEDs, became much harder. For example, while simple, the LED was so difficult to handle because of their flimsy legs, and I ended up using a lot more LEDs than I thought I ever would since they were so hard to deal with. 
+**Accomplishments**
+Some technical accomplishments I've made is that the hardware and electronics for the plane are done. I have the design down, so even if I were to crash and break it, I could rebuild it and it would work. I made a couple switches since the first iteration that might not be obvious. First, I made the front sturdier to hold the propeller in properly. By combining screws, glue, and a solid piece of wood, I was able to make a solid place for the motor to attach to. I've also made some organizational changes within the chassis. I was having problems with the battery sliding back and unplugging, or just shifting the center of gravity while in the air, so I made a system using some wooden dowels that keeps the battery firmly in place.
 
-Before I can say I have completed my third and final milestone, I need to be able to control my arm wirelessly. Whether with Bluetooth on the phone like I showcased here or with Radio Control or something different. I do not know how difficult it will be to go from controlling an LED wirelessly to controlling a whole robotic arm, but I am excited about that challenge. 
+**Challenges**
+The biggest challenge so far has been take-offs. I cannot consistently set up a way for myself to get up in the air and actually practice flying around. Every time I go out to fly, I try to take off, and for the most part, the plane just floats down, hits the ground, and breaks off its propeller. 
+
+**Next Step**
+Before I can say I am done with this project, I want sustained flight. No matter how I take off it does not matter, if my plane is in the air and I am in control, I am happy and I can say I am done. 
 
 # First Milestone
 <iframe width="385" height="685" src="https://www.youtube.com/embed/HlFp4DwnW-U" title="Explain the Plane" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

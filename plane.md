@@ -33,11 +33,11 @@ This was my first true engineering project. It was a wonderful experience and sp
 - What needs to be completed before your final milestone--> 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZehPrCIDyY8?si=jOcj3EqlN-hbe0HE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-\\**Overview**\
+**Overview**\
 This is the second milestone of my foam RC Plane. For this milestone I am making solid attempts at flight, but still struggling to get consistently up in the air.
 
 **Accomplishments**\
-Some technical accomplishments I've made is that the hardware and electronics for the plane are done. I have the design down, so even if I were to crash and break it, I could rebuild it and it would work. I made a couple switches since the first iteration that might not be obvious. First, I made the front sturdier to hold the propeller in properly. By combining screws, glue, and a solid piece of wood, I was able to make a solid place for the motor to attach to. I've also made some organizational changes within the chassis. I was having problems with the battery sliding back and unplugging, or just shifting the center of gravity while in the air, so I made a system using some wooden dowels that keeps the battery firmly in place.
+Some technical accomplishments I've made are that the hardware and electronics for the plane are done. I have the design down, so even if I were to crash and break it, I could rebuild it, and it would work. Since the first iteration, I made a couple of switches that might not be obvious. First, I made the front sturdier to hold the propeller in properly. By combining screws, glue, and a solid piece of wood, I was able to make a solid place for the motor to attach to. I've also made some organizational changes within the chassis. I had problems with the battery sliding back and unplugging or shifting the center of gravity while in the air, so I made a system using wooden dowels that kept the battery firmly in place.
 
 **Challenges**\
 The biggest challenge so far has been take-offs. I cannot consistently set up a way for myself to get up in the air and actually practice flying around. Every time I go out to fly, I try to take off, and for the most part, the plane just floats down, hits the ground, and breaks off its propeller. 
@@ -48,13 +48,17 @@ Before I can say I am done with this project, I want sustained flight. No matter
 # First Milestone
 <iframe width="385" height="685" src="https://www.youtube.com/embed/HlFp4DwnW-U" title="Explain the Plane" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-For my first Milestone, I present my Robotic Arm Claw. It is controlled by two Potentiometers that send inputs to the nano, which process them as outputs for the servos. I faced many challenges while trying to complete this milestone. Let's go over a few.
+**Overview**\
+This is the first milestone of my foam RC Plane. For this milestone, I have built the first iteration of the plane. I've made no attempts to fly it, but I hope that all my hardware and electronics are solid. 
 
-While building the arm itself, I realized multiple servos I was using were not working, so I had to take a bunch of them out, do a lot of testing, and then try and find enough servos that worked to make my project work. I found a code that made finding out which servos worked easy, so this greatly streamlined my process.
+**Accomplishments**\
+My main accomplishment is designing a foam airplane that could, in theory, fly. I came up with a few mechanisms with the materials I have, such as the elevator and rudder mechanisms, and I am really proud of them. Building the plane took a lot of work. I had to spend a lot of time researching the electronics, ensuring everything was compatible and working while also trying not to set anything on fire. So finally having some work to show for feels great. 
 
-While trying to wire the arm, I discovered how detail-oriented I needed to be. If even one wire were out of place, nothing would work. I spent so much time trying to find what I did wrong with my project and why some things would work and others would not, and it turned out my wires were not in the right place.
+**Challenges**\
+The biggest challenge had to be the electronics. I knew nothing about RC going into this, so when I first got all my parts, when I put it all together, nothing worked. I ended up going to a hobby store and just asking for help, thankfully the people there were really nice and they clearly explained to me how everything integrated, and soon enough my electronics were working. 
 
-The main challenge I faced was dealing with the voltage. When I finally had everything wired correctly and all servos working, I tried booting up the arm code, and the arm would start going crazy. I poured over the code and looked at every little line trying to find out what went wrong. Finally, I looked at the manual and it turns out that the arm works with 7-8 volts, and I was using a 9-volt battery to power it. So, I switched batteries, and finally, the arm worked perfectly with the potentiometer joystick, and my first milestone was done. 
+**Next Step**\
+For my next milestone, I plan to make solid flight attempts. While I feel like my design could fly, I predict some changes will need to be made, and I will figure out those changes once I see what does not work in practice. 
 
 # RC Wiring Diagram
 ![Wiring Diagram](./images/Schematic.jpeg)

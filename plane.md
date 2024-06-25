@@ -14,7 +14,7 @@ My first large-scale project was the Foam RC Airplane that I built from scratch.
 
 
 
-# Third/Final Milestone
+# Final Milestone
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_G9nHn8xFMI?si=Z0ufIZd0SuiaE42G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -42,7 +42,7 @@ So far, the most surprising part of the project is how simple yet complicated it
 Before I can say I have completed my third and final milestone, I need to be able to control my arm wirelessly. Whether with Bluetooth on the phone like I showcased here or with Radio Control or something different. I do not know how difficult it will be to go from controlling an LED wirelessly to controlling a whole robotic arm, but I am excited about that challenge. 
 
 # First Milestone
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JJNtc4UcqHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="385" height="685" src="https://www.youtube.com/embed/HlFp4DwnW-U" title="Explain the Plane" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 For my first Milestone, I present my Robotic Arm Claw. It is controlled by two Potentiometers that send inputs to the nano, which process them as outputs for the servos. I faced many challenges while trying to complete this milestone. Let's go over a few.
 

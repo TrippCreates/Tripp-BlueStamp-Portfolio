@@ -3,9 +3,9 @@ My project is a wireless robotic arm, that is modified by being attached to a RC
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Tripp T. | Los Gatos High School | Aerospace/Mechanical Engineering | Incoming Junior
+| Tripp T. | Los Gatos High School | Aerospace/Mechanical Engineering | Junior Summer |
 
-# [Homepage](./index.md)
+# [Back To Homepage](./index.md)
 
 <!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**-->
 

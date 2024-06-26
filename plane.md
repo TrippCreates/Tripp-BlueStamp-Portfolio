@@ -16,13 +16,17 @@ My first large-scale project was the Foam RC Airplane, which I built from scratc
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_G9nHn8xFMI?si=Z0ufIZd0SuiaE42G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-This was the last milestone for my plane project, which was a successful flight of around 15-20 seconds. My original stated goal for the venture was to take off and land; however, my piloting skills were so bad that it really just came down to proving my design was flyable. A much better pilot than myself would have likely thrived with my plane. However, I am not a pilot. So, for my fifth iteration of the plane, I was satisfied with what I got and figured through all the hardship, late nights, and endless YouTube tutorials, I could call it a win. 
+**Overview**\
+This is the Final milestone of my foam RC Plane. For this milestone I made a great attempt at flight and had sustained airtime, enough to satisfy my needs. 
 
-My biggest challenge for this part of the project was just creating consistent conditions for myself so that I could get better at flying without damaging the plane. 
+**Accomplishments**\
+Since the prior milestone, I've made only a few changes to the plane. I made better compartments that let me easily access the inside, change things up if needed, or plug things back in. I also added weights to the front of the plane to better balance the center of gravity and make things more aerodynamic. Finally, I spent time in an online flight simulator to practice my skills in a more controlled environment. 
 
-For this part of my project, I learned a lot about resilience. I knew that the design that I held in my plans worked; it really just came down to myself becoming a better flying and figuring out a way to do that without constantly crashing my plane. 
+**Challenges**\
+The biggest challenge of this part was controlling the plane in air. I got my take-offs to be more consistent, but once I had a flight, I had no idea what to do, and it took a long time to get some semblance of control. 
 
-This was my first true engineering project. It was a wonderful experience and spurred me to continue pursuing my passion and fervor for the subject. While it was hard to stay persistent, I learned a lot about creating things and even more about what I love. 
+**Next Step**\
+For now, I am done with the plane. I want to move on to other projects that I have in mind, but in the future, I do want to come back to it by either building another better-looking and performing model or just adding some features like a cargo bay to the existing prototype. 
 
 
 # Second Milestone
@@ -69,11 +73,11 @@ For my next milestone, I plan to make solid flight attempts. While I feel like m
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:| 
-|Brushless RC Motor|It is the motor for the car|$16.99| <a href= "https://www.amazon.com/FLASH-HOBBY-Brushless-Multicopters-Helicopter/dp/B089YN9WM9/ref=sr_1_4?crid=2N1L4C3VMAL3L&keywords=rc%2Bmotor&qid=1689274087&s=toys-and-games&sprefix=rc%2Bmoto%2Ctoys-and-games%2C163&sr=1-4&th=1"> Link </a>|
-| 30A ESC | To Have Speed Control over the Car | $16.99 | <a href= "https://www.amazon.com/RC-Brushless-Electric-Controller-bullet/dp/B071GRSFBD/ref=pd_bxgy_sccl_1/130-2510493-2350145?pd_rd_w=Tpt7i&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=BWF4MRYYFR352B441YN7&pd_rd_wg=c4Kas&pd_rd_r=55405d14-455a-41be-95ae-b7396496c584&pd_rd_i=B071GRSFBD&psc=1"> Link </a> |
-|Cokoino Robotic Arm|It is the Robotic Arm Project|$49.99| <a href= "https://www.amazon.com/LK-COKOINO-Compliment-Engineering-Technology/dp/B081FG1JQ1"> Link </a>|
-|3 in 1 IoT/Smart Car| Wheels, Servos, Chassis, and misc. parts| $89.99 | <a href="https://www.amazon.com/SunFounder-Compatible-Tutorials-Including-Controller/dp/B0B778L1DZ"> Link </a> |
-| Various 3D Printed Parts | Check Schematics | N/A | N/A |
+|Brushless RC Motor|Motor for Plane|$16.99| <a href= "https://www.amazon.com/FLASH-HOBBY-Brushless-Multicopters-Helicopter/dp/B089YN9WM9/ref=sr_1_4?crid=2N1L4C3VMAL3L&keywords=rc%2Bmotor&qid=1689274087&s=toys-and-games&sprefix=rc%2Bmoto%2Ctoys-and-games%2C163&sr=1-4&th=1"> Link </a>|
+| 30A ESC | Speed Controller | $16.99 | <a href= "https://www.amazon.com/RC-Brushless-Electric-Controller-bullet/dp/B071GRSFBD/ref=pd_bxgy_sccl_1/130-2510493-2350145?pd_rd_w=Tpt7i&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=BWF4MRYYFR352B441YN7&pd_rd_wg=c4Kas&pd_rd_r=55405d14-455a-41be-95ae-b7396496c584&pd_rd_i=B071GRSFBD&psc=1"> Link </a> |
+|RC Transmitter and Receiver|Controller for the Plane|$55.99| <a href= "https://www.amazon.com/FLYSKY-Transmitter-Controller-ReceiverUpgrade/dp/B07Z8VCB45/ref=asc_df_B07Z8VCB45/tag=hyprod20&linkCode=df0&hvadid=693311371864&hvpos=&hvnetw=g&hvrand=11435024384380593492&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-1088447909254&psc=1&mcid=5511ea153e703c4388c5be8c069ed453&gad_source=1"> Link </a>|
+|10 pc Servos| Servos for Elevator and Rudder | $18.99 | <a href="https://www.amazon.com/Smraza-Helicopter-Airplane-Control-Arduino/dp/B07L2SF3R4/ref=sr_1_4?crid=2POL45TEUW4&dib=eyJ2IjoiMSJ9.1_WMN8TnuC1saC398n-qI5stCSQHi8o99msGSDDxL2zm7zTwqArq9Haxm6-dPkY4u0u7nfhcnMVKqwPX1LWaXD5enoeMKCW7TffNX9KScFx5PPDxh9Qq0AJHLT9QlOls5LrQucwz-17KyiQ5B65C6XhUBvkjgi8FtUvRaLzyP3uDVJC1H1coJhlH1534CA93cabK3bBtXmQnODrzOGHMJ4VHaz70rUJ5njq41MBRdwFMQuIiUTxoX4r6pajpS-4ZT_7DZx1XT0_cueVRlae7EMi7-ARQWac2bWEttdZklpU.xtCOtC6si7PFJAjjJmEaHLPV2y0Bik1MknRVT188K1A&dib_tag=se&keywords=servos&qid=1719420120&s=toys-and-games&sprefix=servos%2Ctoys-and-games%2C136&sr=1-4&th=1"> Link </a> |
+| 20x30 Foam Board | For building Plane Body | $5.99/pc |<a href="https://www.michaels.com/product/20-x-30-white-foam-board-10110205?michaelsStore=3340&inv=93"> Link </a>   |
 
 
 # Other Resources/Examples

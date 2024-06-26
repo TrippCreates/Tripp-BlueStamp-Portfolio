@@ -3,7 +3,7 @@ My first large-scale project was the Foam RC Airplane, which I built from scratc
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Tripp T. | Los Gatos High School | Aerospace/Mechanical Engineering | Junior
+| Tripp T. | Los Gatos High School | Aerospace/Mechanical Engineering | Sophomore |
 
 ## [Back To Homepage](./index.md)
 

@@ -11,22 +11,21 @@ My first large-scale project was the Foam RC Airplane, which I built from scratc
 ![Crash](./images/Crash.jpeg)
 
 
-
-# Final Milestone
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_G9nHn8xFMI?si=Z0ufIZd0SuiaE42G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+# First Milestone
+<iframe width="385" height="685" src="https://www.youtube.com/embed/HlFp4DwnW-U" title="Explain the Plane" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Overview**\
-This is the Final milestone of my foam RC Plane. For this milestone I made a great attempt at flight and had sustained airtime, enough to satisfy my needs. 
+This is the first milestone of my foam RC Plane. For this milestone, I have built the first iteration of the plane. I've made no attempts to fly it, but I hope that all my hardware and electronics are solid. 
 
 **Accomplishments**\
-Since the prior milestone, I've made only a few changes to the plane. I made better compartments that let me easily access the inside, change things up if needed, or plug things back in. I also added weights to the front of the plane to better balance the center of gravity and make things more aerodynamic. Finally, I spent time in an online flight simulator to practice my skills in a more controlled environment. 
+My main accomplishment is designing a foam airplane that could, in theory, fly. I came up with a few mechanisms with the materials I have, such as the elevator and rudder mechanisms, and I am really proud of them. Building the plane took a lot of work. I had to spend a lot of time researching the electronics, ensuring everything was compatible and working while also trying not to set anything on fire. So finally having some work to show for feels great. 
 
 **Challenges**\
-The biggest challenge of this part was controlling the plane in air. I got my take-offs to be more consistent, but once I had a flight, I had no idea what to do, and it took a long time to get some semblance of control. 
+The biggest challenge had to be the electronics. I knew nothing about RC going into this, so when I first got all my parts, when I put it all together, nothing worked. I ended up going to a hobby store and just asking for help, thankfully the people there were really nice and they clearly explained to me how everything integrated, and soon enough my electronics were working. 
 
 **Next Step**\
-For now, I am done with the plane. I want to move on to other projects that I have in mind, but in the future, I do want to come back to it by either building another better-looking and performing model or just adding some features like a cargo bay to the existing prototype. 
+For my next milestone, I plan to make solid flight attempts. While I feel like my design could fly, I predict some changes will need to be made, and I will figure out those changes once I see what does not work in practice. 
+
 
 
 # Second Milestone
@@ -49,20 +48,23 @@ The biggest challenge so far has been take-offs. I cannot consistently set up a 
 **Next Step**\
 Before I can say I am done with this project, I want sustained flight. No matter how I take off it does not matter, if my plane is in the air and I am in control, I am happy and I can say I am done. 
 
-# First Milestone
-<iframe width="385" height="685" src="https://www.youtube.com/embed/HlFp4DwnW-U" title="Explain the Plane" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+# Final Milestone
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_G9nHn8xFMI?si=Z0ufIZd0SuiaE42G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Overview**\
-This is the first milestone of my foam RC Plane. For this milestone, I have built the first iteration of the plane. I've made no attempts to fly it, but I hope that all my hardware and electronics are solid. 
+This is the Final milestone of my foam RC Plane. For this milestone I made a great attempt at flight and had sustained airtime, enough to satisfy my needs. 
 
 **Accomplishments**\
-My main accomplishment is designing a foam airplane that could, in theory, fly. I came up with a few mechanisms with the materials I have, such as the elevator and rudder mechanisms, and I am really proud of them. Building the plane took a lot of work. I had to spend a lot of time researching the electronics, ensuring everything was compatible and working while also trying not to set anything on fire. So finally having some work to show for feels great. 
+Since the prior milestone, I've made only a few changes to the plane. I made better compartments that let me easily access the inside, change things up if needed, or plug things back in. I also added weights to the front of the plane to better balance the center of gravity and make things more aerodynamic. Finally, I spent time in an online flight simulator to practice my skills in a more controlled environment. 
 
 **Challenges**\
-The biggest challenge had to be the electronics. I knew nothing about RC going into this, so when I first got all my parts, when I put it all together, nothing worked. I ended up going to a hobby store and just asking for help, thankfully the people there were really nice and they clearly explained to me how everything integrated, and soon enough my electronics were working. 
+The biggest challenge of this part was controlling the plane in air. I got my take-offs to be more consistent, but once I had a flight, I had no idea what to do, and it took a long time to get some semblance of control. 
 
 **Next Step**\
-For my next milestone, I plan to make solid flight attempts. While I feel like my design could fly, I predict some changes will need to be made, and I will figure out those changes once I see what does not work in practice. 
+For now, I am done with the plane. I want to move on to other projects that I have in mind, but in the future, I do want to come back to it by either building another better-looking and performing model or just adding some features like a cargo bay to the existing prototype. 
 
 # RC Wiring Diagram
 ![Wiring Diagram](./images/Schematic.jpeg)

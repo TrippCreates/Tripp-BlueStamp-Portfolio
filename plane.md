@@ -77,7 +77,13 @@ For my next milestone, I plan to make solid flight attempts. While I feel like m
 | 30A ESC | Speed Controller | $16.99 | <a href= "https://www.amazon.com/RC-Brushless-Electric-Controller-bullet/dp/B071GRSFBD/ref=pd_bxgy_sccl_1/130-2510493-2350145?pd_rd_w=Tpt7i&content-id=amzn1.sym.26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_p=26a5c67f-1a30-486b-bb90-b523ad38d5a0&pf_rd_r=BWF4MRYYFR352B441YN7&pd_rd_wg=c4Kas&pd_rd_r=55405d14-455a-41be-95ae-b7396496c584&pd_rd_i=B071GRSFBD&psc=1"> Link </a> |
 |RC Transmitter and Receiver|Controller for the Plane|$55.99| <a href= "https://www.amazon.com/FLYSKY-Transmitter-Controller-ReceiverUpgrade/dp/B07Z8VCB45/ref=asc_df_B07Z8VCB45/tag=hyprod20&linkCode=df0&hvadid=693311371864&hvpos=&hvnetw=g&hvrand=11435024384380593492&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-1088447909254&psc=1&mcid=5511ea153e703c4388c5be8c069ed453&gad_source=1"> Link </a>|
 |10 pc Servos| Servos for Elevator and Rudder | $18.99 | <a href="https://www.amazon.com/Smraza-Helicopter-Airplane-Control-Arduino/dp/B07L2SF3R4/ref=sr_1_4?crid=2POL45TEUW4&dib=eyJ2IjoiMSJ9.1_WMN8TnuC1saC398n-qI5stCSQHi8o99msGSDDxL2zm7zTwqArq9Haxm6-dPkY4u0u7nfhcnMVKqwPX1LWaXD5enoeMKCW7TffNX9KScFx5PPDxh9Qq0AJHLT9QlOls5LrQucwz-17KyiQ5B65C6XhUBvkjgi8FtUvRaLzyP3uDVJC1H1coJhlH1534CA93cabK3bBtXmQnODrzOGHMJ4VHaz70rUJ5njq41MBRdwFMQuIiUTxoX4r6pajpS-4ZT_7DZx1XT0_cueVRlae7EMi7-ARQWac2bWEttdZklpU.xtCOtC6si7PFJAjjJmEaHLPV2y0Bik1MknRVT188K1A&dib_tag=se&keywords=servos&qid=1719420120&s=toys-and-games&sprefix=servos%2Ctoys-and-games%2C136&sr=1-4&th=1"> Link </a> |
-| 20x30 Foam Board | For building Plane Body | $5.99/pc |<a href="https://www.michaels.com/product/20-x-30-white-foam-board-10110205?michaelsStore=3340&inv=93"> Link </a>   |
+| 20x30 Foam Board | For building Plane Body | $5.99/pc |<a href="https://www.michaels.com/product/20-x-30-white-foam-board-10110205?michaelsStore=3340&inv=93"> Link </a> |
+
+**Miscellaneous Parts**
+|Wooden Dowels|
+|Rubber Bands|
+|Hot Glue|
+
 
 
 # Other Resources/Examples

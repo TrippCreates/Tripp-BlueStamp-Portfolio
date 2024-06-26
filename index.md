@@ -5,8 +5,6 @@ Hi, I'm Tripp Thomas, a passionate maker and creator from Los Gatos High School.
 
 ![Profile Picture](./images/Headshot.jpeg)
 
-## What I've Been Working On:
-
 
 ## [RC Foam Airplane](./plane.md)
 **TLDR:** This plane was one of my first large-scale projects. It took me months to get right, but it introduced me to the engineering experience, and I fell in love. I came up with the design on my own, integrating foam board with some RC parts, and after many iterations, I got it to fly. It was incredibly exciting for me, and even more so for my father, who filmed all my attempts. 

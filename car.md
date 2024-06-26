@@ -3,7 +3,7 @@ My project is a wireless robotic arm, that is modified by being attached to a RC
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Tripp T. | Los Gatos High School | Aerospace/Mechanical Engineering | Junior Summer |
+| Tripp T. | Los Gatos High School | Aerospace/Mechanical Engineering | Rising Junior |
 
 # [Back To Homepage](./index.md)
 

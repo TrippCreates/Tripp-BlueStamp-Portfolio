@@ -79,7 +79,8 @@ For my next milestone, I plan to make solid flight attempts. While I feel like m
 |10 pc Servos| Servos for Elevator and Rudder | $18.99 | <a href="https://www.amazon.com/Smraza-Helicopter-Airplane-Control-Arduino/dp/B07L2SF3R4/ref=sr_1_4?crid=2POL45TEUW4&dib=eyJ2IjoiMSJ9.1_WMN8TnuC1saC398n-qI5stCSQHi8o99msGSDDxL2zm7zTwqArq9Haxm6-dPkY4u0u7nfhcnMVKqwPX1LWaXD5enoeMKCW7TffNX9KScFx5PPDxh9Qq0AJHLT9QlOls5LrQucwz-17KyiQ5B65C6XhUBvkjgi8FtUvRaLzyP3uDVJC1H1coJhlH1534CA93cabK3bBtXmQnODrzOGHMJ4VHaz70rUJ5njq41MBRdwFMQuIiUTxoX4r6pajpS-4ZT_7DZx1XT0_cueVRlae7EMi7-ARQWac2bWEttdZklpU.xtCOtC6si7PFJAjjJmEaHLPV2y0Bik1MknRVT188K1A&dib_tag=se&keywords=servos&qid=1719420120&s=toys-and-games&sprefix=servos%2Ctoys-and-games%2C136&sr=1-4&th=1"> Link </a> |
 | 20x30 Foam Board | For building Plane Body | $5.99/pc |<a href="https://www.michaels.com/product/20-x-30-white-foam-board-10110205?michaelsStore=3340&inv=93"> Link </a> |
 
-**Miscellaneous Parts**
+|**Miscellaneous Parts**|
+|:--:|
 |Wooden Dowels|
 |Rubber Bands|
 |Hot Glue|

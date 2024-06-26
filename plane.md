@@ -80,7 +80,6 @@ For my next milestone, I plan to make solid flight attempts. While I feel like m
 | 20x30 Foam Board | For building Plane Body | $5.99/pc |<a href="https://www.michaels.com/product/20-x-30-white-foam-board-10110205?michaelsStore=3340&inv=93"> Link </a> |
 |2200mAh 3S Lipo Battery (2 Count) |For Powering Plane|$28.99|<a href="https://www.amazon.com/CNHL-2200mAh-Battery-Airplane-Quadcopter/dp/B08KD1YN9F/ref=sr_1_5_pp?crid=27WM5D7VOGY03&dib=eyJ2IjoiMSJ9.x2TCcQBNLj9ew7DEv4HGLWG-K5FDudg1GrHocf0wd5_eUWPE7YTnosMVTjM1-O2ecbcMbwK8mbKg7hNFdtsGKxM-xmQwNI_lYNHvUU2t_TbtDz50syPYPG-fVAnqaGwn7Sx6Y1dCaHmnuMoMXv_u83sX0OqEou8l1SdeYmw0IF8OeBXc2DgvPaM53jzwvG0OjpgOfJyGpakl24YXKZ24FMCwQxqggZy960l7WKkvFSByDuOn0uwhsZSsla9mmz3AnBxEzOkL5mepSPJ4fVnaDhvcFoTFm6mVfoNxWr16bX4.dtJjND3QzEJJXImTbEyl5nBAGX7kRNa9Ffc4ipC0TIc&dib_tag=se&keywords=LiPo+battery&qid=1719421510&sprefix=lipo+battery%2Caps%2C162&sr=8-5"> Link </a>|
 
-/
 
 |**Miscellaneous Parts/Tools**| **Note**|
 |:--:|:--:|
@@ -94,5 +93,4 @@ For my next milestone, I plan to make solid flight attempts. While I feel like m
 
 
 # Other Resources/Examples
-Here Are Some Resources I used to create my Final Project. /
 - <a href="https://www.instructables.com/Beginners-Guide-to-Connecting-Your-RC-Plane-Electr/"> Parts and Wiring Tutorial </a>

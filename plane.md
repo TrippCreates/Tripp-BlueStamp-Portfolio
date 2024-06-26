@@ -96,4 +96,3 @@ For my next milestone, I plan to make solid flight attempts. While I feel like m
 # Other Resources/Examples
 Here Are Some Resources I used to create my Final Project. /
 - <a href="https://www.instructables.com/Beginners-Guide-to-Connecting-Your-RC-Plane-Electr/"> Parts and Wiring Tutorial </a>
--

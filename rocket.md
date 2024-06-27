@@ -15,16 +15,16 @@ This project got me into the area of 3D printing. Through the power of some left
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eLJ4wtRUJ0Q?si=9Z-wYppHN6apqz7H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Overview**\
-This is the first milestone of my foam RC Plane. For this milestone, I have built the first iteration of the plane. I've made no attempts to fly it, but I hope that all my hardware and electronics are solid. 
+For this first milestone, it was about building a prototype. I wanted to see if my ideas would work in practice, so I just took any junk I could find and tested to see if it would work. 
 
 **Accomplishments**\
-My main accomplishment is designing a foam airplane that could, in theory, fly. I came up with a few mechanisms with the materials I have, such as the elevator and rudder mechanisms, and I am really proud of them. Building the plane took a lot of work. I had to spend a lot of time researching the electronics, ensuring everything was compatible and working while also trying not to set anything on fire. So finally having some work to show for feels great. 
+My main accomplishment is designing a model rocket from scratch. I took cardboard, golf club tubing, push pins, plastic champagne flutes, anything I could find to build a prototype. It did not need to be the most aerodynamic object in the world, I just wanted to test my theories and see if I could put something quick and simple together. 
 
 **Challenges**\
-The biggest challenge had to be the electronics. I knew nothing about RC going into this, so when I first got all my parts, when I put it all together, nothing worked. I ended up going to a hobby store and just asking for help, thankfully the people there were really nice and they clearly explained to me how everything integrated, and soon enough my electronics were working. 
+The biggest challenge had to be the integrating. I took all these incompatible parts, and I had to find a way to put them all together. It was a super fun challenge trying to be creative in new ways to get everything to work. 
 
 **Next Step**\
-For my next milestone, I plan to make solid flight attempts. While I feel like my design could fly, I predict some changes will need to be made, and I will figure out those changes once I see what does not work in practice. 
+For my next milestone, I plan to launch the rocket, see what works and what doesn't, and from there, see what parts I should design and 3D print for model two. 
 
 
 

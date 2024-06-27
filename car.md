@@ -69,15 +69,15 @@ After this, I hope to continue learning about engineering, specifically Mechanic
 
 # Schematics 
 
-Axle Adapter
+## Axle Adapter
 <img width="489" alt="Screen Shot 2023-07-17 at 2 46 36 PM" src="https://github.com/TrippCreates/Tripp-BlueStamp-Portfolio/assets/136486404/59d1743a-5d80-4d41-9a85-cb9a997184d3">
 
-Axle Mount
+## Axle Mount
 <img width="841" alt="Screen Shot 2023-07-17 at 2 45 39 PM" src="https://github.com/TrippCreates/Tripp-BlueStamp-Portfolio/assets/136486404/a6da9c0a-6421-4764-83b2-c49c10f30a5e">
 
 # Code
 
-Code to Control Arm (Milestone 1):
+## To Control Arm (Milestone 1):
 ```c++
 #include "src/CokoinoArm.h"
 #define buzzerPin 9
@@ -217,7 +217,7 @@ void loop() {
   Do_action();
 }
 ```
-Code for Bluetooth LED (Milestone 2):
+## For Bluetooth LED (Milestone 2):
 ```c++
 #define ledPin 7
 int state = 0;

@@ -54,18 +54,18 @@ My next step is to design and 3D print all the parts I want for the final protot
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ec7b5v9FoI8?si=OXt-W_M7n9x_Szlu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Overview**\
-This is the Final milestone of my foam RC Plane. For this milestone I made a great attempt at flight and had sustained airtime, enough to satisfy my needs. 
+This is the Final milestone of my foam 3D-printed model rocket. I successfully launched it and deployed the parachute for this milestone. 
 
 **Accomplishments**\
-Since the prior milestone, I've made only a few changes to the plane. I made better compartments that let me easily access the inside, change things up if needed, or plug things back in. I also added weights to the front of the plane to better balance the center of gravity and make things more aerodynamic. Finally, I spent time in an online flight simulator to practice my skills in a more controlled environment. 
+Since the prior milestone, I've revamped almost the whole rocket. The body is shorter. I made a new nose cone and new fins, and I remade the engine compartment. I've attached all the STL files for it below, and I think its because of the added precision and the dropped weight that allowed for a successful mission. 
 
 **Challenges**\
-The biggest challenge of this part was controlling the plane in air. I got my take-offs to be more consistent, but once I had a flight, I had no idea what to do, and it took a long time to get some semblance of control. 
+The biggest challenge for this milestone was designing and printing the parts. I wasted a lot of time trying to figure out the best precision to print out the designs at. I started at just a millimeter, but had to move it up to 2.5 mm as the perfect combination of precision and room for error. It was also really hard learning to design and print a screw mechanism for the engine bay. 
 
 **Next Step**\
-For now, I am done with the plane. I want to move on to other projects that I have in mind, but in the future, I do want to come back to it by either building another better-looking and performing model or just adding some features like a cargo bay to the existing prototype. 
+For now, I am done with the rocket. I want to move on to other projects that I have in mind, like building a drone, but in the future, I do want to come back to it by adding a way for both the rocket and nose cone to come down safely.
 
-# RC Wiring Diagram
+# 3D Print Files
 ![Wiring Diagram](./images/Schematic.jpeg)
 
 

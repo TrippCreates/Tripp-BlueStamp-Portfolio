@@ -12,7 +12,7 @@ This project got me into the area of 3D printing. Through the power of some left
 
 
 # First Milestone
-<iframe width="385" height="685" src="https://www.youtube.com/embed/HlFp4DwnW-U" title="Explain the Plane" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eLJ4wtRUJ0Q?si=9Z-wYppHN6apqz7H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Overview**\
 This is the first milestone of my foam RC Plane. For this milestone, I have built the first iteration of the plane. I've made no attempts to fly it, but I hope that all my hardware and electronics are solid. 

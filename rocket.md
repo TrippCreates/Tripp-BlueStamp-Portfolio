@@ -52,7 +52,7 @@ Before I can say I am done with this project, I want sustained flight. No matter
 
 # Final Milestone
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_G9nHn8xFMI?si=Z0ufIZd0SuiaE42G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ec7b5v9FoI8?si=OXt-W_M7n9x_Szlu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Overview**\
 This is the Final milestone of my foam RC Plane. For this milestone I made a great attempt at flight and had sustained airtime, enough to satisfy my needs. 

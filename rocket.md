@@ -1,5 +1,5 @@
 # 3D Printed Model Rocket
-This project got me into the area of 3D printing. Through the power of some leftover money from an old job combined with the Christmas season, I ended up getting my hands on a new 3D printer. I was beyond excited because I could now start printing out my own parts for projects. Before this, I would have to scour my garage for cardboard and wood and make a shotty attempt at a design for something like a mount. Now I could use precision printing to do what felt like anything. I decided to make a model rocket and make all the complimentary parts out of PLA. It was super fun and it taught me so much about CAD and the intricacies of the software. 
+This project got me into the area of 3D printing. Through the power of some leftover money from an old job combined with the Christmas season, I ended up getting my hands on a new 3D printer. I was beyond excited because I could now start printing out my parts for projects. Before this, I would have to scour my garage for cardboard and wood and make a shotty attempt at a design for something like a mount. Now, I could use precision printing to do what felt like anything. I decided to make a model rocket and make all the complimentary parts out of PLA. It was super fun and it taught me so much about CAD and the intricacies of the software. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -21,7 +21,7 @@ For this first milestone, it was about building a prototype. I wanted to see if 
 My main accomplishment is designing a model rocket from scratch. I took cardboard, golf club tubing, push pins, plastic champagne flutes, anything I could find to build a prototype. It did not need to be the most aerodynamic object in the world, I just wanted to test my theories and see if I could put something quick and simple together. 
 
 **Challenges**\
-The biggest challenge had to be the integrating. I took all these incompatible parts, and I had to find a way to put them all together. It was a super fun challenge trying to be creative in new ways to get everything to work. 
+The biggest challenge had to be integrating. I took all these incompatible parts and had to find a way to put them all together. It was a super fun challenge to try to be creative in new ways to get everything to work. 
 
 **Next Step**\
 For my next milestone, I plan to launch the rocket, see what works and what doesn't, and from there, see what parts I should design and 3D print for model two. 
@@ -37,17 +37,16 @@ For my next milestone, I plan to launch the rocket, see what works and what does
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OAdHz1ghlD0?si=6XIEqs8O4W4EaHot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Overview**\
-This is the second milestone of my foam RC Plane. For this milestone I am making solid attempts at flight, but still struggling to get consistently up in the air.
+This is the second milestone of my model rocket. This milestone was about learning to launch the rocket and then, in turn, learning from what works and what does not to make my final model. 
 
 **Accomplishments**\
-Some technical accomplishments I've made are that the hardware and electronics for the plane are done. I have the design down, so even if I were to crash and break it, I could rebuild it, and it would work. Since the first iteration, I made a couple of switches that might not be obvious. First, I made the front sturdier to hold the propeller in properly. By combining screws, glue, and a solid piece of wood, I was able to make a solid place for the motor to attach to. I've also made some organizational changes within the chassis. I had problems with the battery sliding back and unplugging or shifting the center of gravity while in the air, so I made a system using wooden dowels that kept the battery firmly in place.
+The main accomplishment of this milestone was the launch of the rocket. While it may have failed miserably, it was clear what went wrong. The rocket needs a bigger engine, balance, and weight loss. I had never worked with model rocket engines or launch controllers, so not setting anything on fire was also a huge plus.
 
 **Challenges**\
-The biggest challenge so far has been take-offs. I cannot consistently set up a way for myself to get up in the air and actually practice flying around. Every time I go out to fly, I try to take off, and for the most part, the plane just floats down, hits the ground, and breaks off its propeller. 
+The biggest challenge of this milestone was understanding the launch components. I extensively tested the engine, starter, and controller to ensure I knew what I was doing before going out in the field and setting things ablaze.
 
 **Next Step**\
-Before I can say I am done with this project, I want sustained flight. No matter how I take off it does not matter, if my plane is in the air and I am in control, I am happy and I can say I am done. 
-
+My next step is to design and 3D print all the parts I want for the final prototype. I want multiple components, like the nose cone and fins, to be both lighter and more precise, so I plan on making some designs for those. 
 
 
 # Final Milestone

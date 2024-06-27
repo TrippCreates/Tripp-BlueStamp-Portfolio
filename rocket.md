@@ -8,7 +8,7 @@ This project got me into the area of 3D printing. Through the power of some left
 ## [Back To Homepage](./index.md)
 
 
-![Crash](./images/model1.jpeg)
+![Model One Rocket](./images/ModelOne.jpeg)
 
 
 # First Milestone

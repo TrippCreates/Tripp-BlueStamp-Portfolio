@@ -12,16 +12,6 @@ My project is a wireless robotic arm, that is modified by being attached to a RC
 ![Headshot](https://github.com/TrippCreates/Tripp-BlueStamp-Portfolio/assets/136486404/d74c0726-d896-482a-a306-049c14b1bfb1)
 
 
-
-# Starter Milestone
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jnHKEDy3mJg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-This is my Starter project. It is dubbed the useless box. You turn the switch, and the motor inside turns the switch back. It works by having mechanisms triggered by the switch and then reversed once the switch is returned to its original position. 
-
-My biggest problem with the starter was ensuring everything was correctly placed. If they weren't, then the whole thing would not work. While I was building it, I was following the instructions, and I was not too focused on trying to make sure everything was correct. So, the first time I tried to get it to work, the lever would fall off its axis, and it would miss the switch altogether. So, I broke the whole thing apart and put it all together, but this time, focusing exactly on where things went. I tried it again, and the lever turned the switch off, and the useless box worked.
-
-The biggest takeaway from my starter project was learning to be careful with my project and learning to be precise. This being the first milestone of many, it taught me how hard the rest of the milestones would be. 
-
 # First Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JJNtc4UcqHM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

@@ -99,16 +99,11 @@ For now, I am done with the rocket. I want to move on to other projects that I h
 |Model Rocket Engine|B-4-4|$11.99| <a href= "https://estesrockets.com/products/b4-4-engines"> Link </a>|
 | Launch Controller | Low Cost Estes | $24.99 | <a href= "https://www.amazon.com/Estes-2230-E-Launch-Controller/dp/B0006MZKG6/ref=sr_1_1?dib=eyJ2IjoiMSJ9.pZynRK8k40zzOngTFx5Ye23KorYDbsOOKIs242or4JUbNwKRsrRk5xrBtnzAKkLaVLRpxyG4zdVom_2Bd5Uo0vsQZ09WVWXLlXz0oD7TD6ENXT3As3g34V8RrxQlGpoKgDpnaJIoSxhRqv3OAOBzCl2Ey8Pq_CBP0oHSIscMbcpv3WmtrtNuzNbtcRQ-iAYpCNFcTEstOD6co0Vp9EVzrBS0FjbDSNQkaKSDMNR5rQaEYy0KNcT0nBbAX2ADEKag5nECBybL-tskD0NLtsTcAIZfeu9m61ffPsLvgvC9k8.FUdjbPPH7V9ovpLtKm4GGI3ffvkMTEVdoWCo0qzqg&dib_tag=se&keywords=launch+controller+for+model+rockets&qid=1719594312&sr=8-1"> Link </a> |
 |Golf Tubing|For Rocket Body|$19.99| <a href="https://www.amazon.com/sk=golf+tubes&crid=HUGNKQXWLLUU&sprefix=golf+tube%2Caps%2C163&ref=nb_sb_noss_1"> Link </a>|
-
+|Parachute|For Recovery|$8.99|<a href="https://www.amazon.com/Estes-2265-15-Parachute/dp/B00A4UXATY/ref=sr_1_5?crid=1V63U10AA549L&dib=eyJ2IjoiMSJ9.Bomfzm68ELMGa0ug6PVQdctUuf75xW5w5Peg82NHoXkwXYeTNNeHHlo7E_Mjwh8yD7U-HHk3cJk90iPa_0KLz25BvWXO61TkdiSh8VKdUedg3JW6gHa9PpML4aa3o_kASNUKkFtODDT7qjkbNbLEBrhRbuKdJ-35BfNWgMIEFs8I7OxQscqoF--pdNSfmaavdXL_UM4A9lSnlLgtki4jfBWOAowQ7ecckYfXM8A2YL_LwkZamTs5U1G23yzalfBRCCBljqQSBrssDYAtFtTGvBlODXBDxo7JqX71M1TNlyM.tsX5eJwmDNW_qJo5Z4nxGWmCAbNdE3bAzy0OMi2tDP8&dib_tag=se&keywords=model+rocket+parachute&qid=1719594606&sprefix=model+rocket+para%2Caps%2C163&sr=8-5"> Link </a>|
 
 |**Miscellaneous Parts/Tools**| **Note**|
 |:--:|:--:|
-|Wooden Dowels|Help Fasten Wing|
-|Rubber Bands|Help Fasten Wing|
-|Hot Glue|Hold Things Together|
-|LiPo Charger|Charge Battery|
-|Xacto Knife|For Cutting and Folding Foam Board|
-
+|3D Printed Parts|Around $10 in PLA|
 
 
 

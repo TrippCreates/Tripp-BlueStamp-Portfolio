@@ -72,11 +72,13 @@ For now, I am done with the rocket. I want to move on to other projects that I h
 |**Leg Stand**|**Launch Rail**|**Mount**|
 |:--:|:--:|:--:|
 |![Leg Stand](./images/LegStand.png)|![Pole](./images/Pole.png)|![Mount](./images/Mount.png)|
+|**Center Console**|**Cover**|**Assembly**|
+|![Stand](./images/Stand.png)|![Cover](./images/Cover.png)|![Assembly](./images/LaunchAssembly.png)|
 
 
-![Stand](./images/Stand.png)
 
-![Assembly](./images/LaunchAssembly.png)
+
+
 
 
 

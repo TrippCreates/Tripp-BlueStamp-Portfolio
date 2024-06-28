@@ -81,7 +81,7 @@ For now, I am done with the rocket. I want to move on to other projects that I h
 |:--:|:--:|:--:|
 |![Nose Cone](./images/NoseCone.png)|![Fins](./images/Fins.png)|![Launch Rail Guide](./images/Holder.png)|
 |**Engine Holder**|**Holder Screw Top**|**Engine Holder Animation**|
-|![Engine Holder](./images/EngineHolder.png)|![Cover](./images/ScrewTop.png)|![Assembly](./images/LaunchAssembly.png)|
+|![Engine Holder](./images/EngineHolder.png)|![Cover](./images/ScrewTop.png)|![Assembly]((https://github.com/TrippCreates/Tripp-Makers-Portfolio/blob/63bd0c0bd8ad530d3942b7a87e06e19333e42515/images/Engine.gif))|
 
 
 

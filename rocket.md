@@ -108,4 +108,4 @@ For now, I am done with the rocket. I want to move on to other projects that I h
 
 
 # Other Resources/Examples
-- <a href="https://www.instructables.com/Beginners-Guide-to-Connecting-Your-RC-Plane-Electr/"> Parts and Wiring Tutorial </a>
+- <a href="https://www.youtube.com/watch?v=r2lDXoW78u0"> Design Inspiration </a>

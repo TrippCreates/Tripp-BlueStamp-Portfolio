@@ -69,11 +69,10 @@ For now, I am done with the rocket. I want to move on to other projects that I h
 
 ## Launch Pad STLs
 
-![Leg Stand](./images/LegStand.png)
+|**Leg Stand**|**Launch Rail**|**Mount**|
+|:--:|:--:|:--:|
+|![Leg Stand](./images/LegStand.png)|![Pole](./images/Pole.png)|![Mount](./images/Mount.png)|
 
-![Pole](./images/Pole.png)
-
-![Mount](./images/Mount.png)
 
 ![Stand](./images/Stand.png)
 

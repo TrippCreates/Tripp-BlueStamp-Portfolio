@@ -66,7 +66,18 @@ The biggest challenge for this milestone was designing and printing the parts. I
 For now, I am done with the rocket. I want to move on to other projects that I have in mind, like building a drone, but in the future, I do want to come back to it by adding a way for both the rocket and nose cone to come down safely.
 
 # 3D Print Files
-![Wiring Diagram](./images/Schematic.jpeg)
+
+## Launch Pad STLs
+
+![Leg Stand](./images/Leg.png)
+
+![Pole](./images/Pole.png)
+
+![Mount](./images/Mount.png)
+
+![Stand](./images/Stand.png)
+
+![Assembly](./images/LaunchAssembly.png)
 
 
 

@@ -1,9 +1,9 @@
 # Custom Drone
-This project got was by far my favorite. It had the best end-product, and I got to combine so many disciplines. I did a lot of electrical engineering, I got to do some mechanical work on the hardware, I 3D printed some custom mounts, and I did lots of online shopping for parts. The project got me even deeper into the RC world, and it was so modular that I felt like I could do anything and go anywhere with it. 
+This project was by far my favorite. It had the best end product, and I got to combine so many disciplines. I did a lot of electrical engineering, I got to do some mechanical work on the hardware, I 3D printed some custom mounts, and I did lots of online shopping for parts. The project got me even deeper into the RC world, and it was so modular that I felt like I could do anything and go anywhere with it. 
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Tripp T. | Los Gatos High School | Aerospace/Mechanical Engineering | Junior |
+| Tripp T. | Los Gatos High School | Aerospace/Mechanical Engineering | Rising Senior |
 
 ## [Back To Homepage](./index.md)
 

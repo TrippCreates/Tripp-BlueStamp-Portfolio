@@ -8,7 +8,7 @@ This project was by far my favorite. It had the best end product, and I got to c
 ## [Back To Homepage](./index.md)
 
 
-![Model One Rocket](./images/ModelOne.jpeg)
+![Drone Gif](./images/Drone.gif)
 
 
 # First Milestone

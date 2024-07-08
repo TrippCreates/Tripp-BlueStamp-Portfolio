@@ -7,9 +7,9 @@ This project was by far my favorite. It had the best end product, and I got to c
 
 ## [Back To Homepage](./index.md)
 
-|Maiden Flight||
+|Maiden Flight|Notes|
 |:--:|:--:|
-|![Drone Gif](./images/Drone.gif)||
+|![Drone Gif](./images/Drone.gif)|Not great|
 
 
 # First Milestone

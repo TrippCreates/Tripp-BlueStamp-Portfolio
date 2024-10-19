@@ -10,8 +10,9 @@ This project was by far my favorite. It had the best end product, and I got to c
 
 ![Drone Gif](./images/Drone.gif)
 
+## To be Updated
 
-# First Milestone
+<!---# First Milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eLJ4wtRUJ0Q?si=9Z-wYppHN6apqz7H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Overview**\
@@ -33,7 +34,7 @@ For my next milestone, I plan to launch the rocket, see what works and what does
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone--> 
+- What needs to be completed before your final milestone
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OAdHz1ghlD0?si=6XIEqs8O4W4EaHot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Overview**\
@@ -108,4 +109,4 @@ For now, I am done with the rocket. I want to move on to other projects that I h
 
 
 # Other Resources/Examples
-- <a href="https://www.youtube.com/watch?v=r2lDXoW78u0"> Design Inspiration </a>
+- <a href="https://www.youtube.com/watch?v=r2lDXoW78u0"> Design Inspiration </a>-->

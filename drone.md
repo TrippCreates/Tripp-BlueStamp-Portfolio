@@ -70,8 +70,8 @@ For now, I am done with this project. However, in the future I want to increase 
 ## Drone STLs
 
 |**GoPro Mount**|**FPV Camera Stand**|
-|:--:|:--:|:--:|
-|![Leg Stand](./images/LegStand.png)|![Pole](./images/Pole.png)|
+|:--:|:--:|
+|![Mount](./images/GoProMount.png)|![Stand](./images/FPVCameraStand.png)|
 
 
 

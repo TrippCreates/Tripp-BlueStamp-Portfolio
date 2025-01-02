@@ -97,7 +97,7 @@ For now, I am done with this project. However, in the future I want to increase 
 |VTX|TBS|$39.99| <a href= "https://www.getfpv.com/tbs-unify-pro-5g8-v3-sma.html"> Link </a>|
 |Antenna|Foxeer|$20.99| <a href= "https://www.amazon.com/Usmile-Lollipop-Antenna-Quadcopter-Transmitter/dp/B07T61ZJDP/ref=sr_1_1?crid=1O980WWMAUUXX&dib=eyJ2IjoiMSJ9.o80FAQjrO9fcYPNre3IB3Kb8agTnr6L6bgqMrPbM1CAUlDdLADuYphjJTcoKGzF7yqi85gpi0K6P-lip5kEkJE7gooPJy8B5WCJX_gv6fAyd7O5iwgayq4tsYiR8CnIFiyA7rdAfrcwBXSLzz14Umj_JZEn43YPyb_9VkCywerX2TmRIqe10ru0Sj1DN3C5I.xxbYB-t8Dsa1FsHQNmYRmaKMRRtYkj82JuPlljmWj6Q&dib_tag=se&keywords=Foxeer%2Blollipop%2B3&qid=1720398901&sprefix=foxeer%2Blollipop%2B3%2Caps%2C162&sr=8-1&th=1"> Link </a>|
 |FPV Goggles|EV800D: Another GREAT budget option|$99.99| <a href= "https://www.getfpv.com/ev800d-5-8ghz-40ch-diversity-fpv-goggles-w-dvr.html"> Link </a>|
-
+|RC Transmitter and Receiver|Same as the RC Plane|$55.99| <a href= "https://www.amazon.com/FLYSKY-Transmitter-Controller-ReceiverUpgrade/dp/B07Z8VCB45/ref=asc_df_B07Z8VCB45/tag=hyprod20&linkCode=df0&hvadid=693311371864&hvpos=&hvnetw=g&hvrand=11435024384380593492&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-1088447909254&psc=1&mcid=5511ea153e703c4388c5be8c069ed453&gad_source=1"> Link </a>|
 
 |**Miscellaneous Parts/Tools**| **Note**|**Approximate Price**|
 |:--:|:--:|:--:|

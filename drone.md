@@ -37,16 +37,16 @@ For my next milestone, I plan to integrate a camera system so I can film my flig
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3wA4xzai6so?si=yb6nTVmsfMpsDycW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Overview**\
-This is the second milestone of my model rocket. This milestone was about learning to launch the rocket and then, in turn, learning from what works and what does not to make my final model. 
+This is the second milestone of my drone. This milestone was about trying to film my flights. I knew that a GoPro would easily provide high quality film so I decided to try and integrate it into my build.  
 
 **Accomplishments**\
-The main accomplishment of this milestone was the launch of the rocket. While it may have failed miserably, it was clear what went wrong. The rocket needs a bigger engine, balance, and weight loss. I had never worked with model rocket engines or launch controllers, so not setting anything on fire was also a huge plus.
+The accomplishment of this build was designing and 3D printing a mount for a GoPro. It took many iterations to get the right tolerances and design but when the GoPro finally fit and I collected my first footage it was an awesome feeling. 
 
 **Challenges**\
-The biggest challenge of this milestone was understanding the launch components. I extensively tested the engine, starter, and controller to ensure I knew what I was doing before going out in the field and setting things ablaze.
+The biggest challenge of this milestone was weight. The added mass of the GoPro depleted the battery of the drone much quicker than expected, this meant that I had to order a bigger battery and find ways I could cut weight on other parts of the drone. 
 
 **Next Step**\
-My next step is to design and 3D print all the parts I want for the final prototype. I want multiple components, like the nose cone and fins, to be both lighter and more precise, so I plan on making some designs for those. 
+My next step is to integrate an FPV camera into the build that is capable of feeding me live footage of the flight that I can view through a FPV headset. 
 
 
 # Final Milestone
@@ -54,13 +54,13 @@ My next step is to design and 3D print all the parts I want for the final protot
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Dy2yKRyk_c?si=bA4rlciMUSBTVUgt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Overview**\
-This is the Final milestone of my foam 3D-printed model rocket. I successfully launched it and deployed the parachute for this milestone. 
+This is the Final milestone of my drone. I successfully integrated within it a FPV system in which I can watch live the view from my drone as I fly it. 
 
 **Accomplishments**\
-Since the prior milestone, I've revamped almost the whole rocket. The body is shorter. I made a new nose cone and new fins, and I remade the engine compartment. I've attached all the STL files for it below, and I think its because of the added precision and the dropped weight that allowed for a successful mission. 
+The accomplishment of this milestone was adding an FPV system. I had to connect transmitters, solder on more wires, and find space for a camera on my already too-heavy drone. Overall, it was very cool to work with camera systems which was something completely new to me. Getting to fly the drone from a live view was also a feeling like no other that might piloting a drone much easier. 
 
 **Challenges**\
-The biggest challenge for this milestone was designing and printing the parts. I wasted a lot of time trying to figure out the best precision to print out the designs at. I started at just a millimeter, but had to move it up to 2.5 mm as the perfect combination of precision and room for error. It was also really hard learning to design and print a screw mechanism for the engine bay. 
+The biggest challenge for this milestone was working with filming equipment. I had never worked with cameras and the electronics for these systems are very fragile and expensive. This meant I had to be extra careful while implementing the FPV systems. 
 
 **Next Step**\
 For now, I am done with this project. However, in the future I want to increase the autonomous abilities of the drone.
@@ -88,14 +88,25 @@ For now, I am done with this project. However, in the future I want to increase 
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:| 
-|Model Rocket Engine|B-4-4|$11.99| <a href= "https://estesrockets.com/products/b4-4-engines"> Link </a>|
-| Launch Controller | Low Cost Estes | $24.99 | <a href= "https://www.amazon.com/Estes-2230-E-Launch-Controller/dp/B0006MZKG6/ref=sr_1_1?dib=eyJ2IjoiMSJ9.pZynRK8k40zzOngTFx5Ye23KorYDbsOOKIs242or4JUbNwKRsrRk5xrBtnzAKkLaVLRpxyG4zdVom_2Bd5Uo0vsQZ09WVWXLlXz0oD7TD6ENXT3As3g34V8RrxQlGpoKgDpnaJIoSxhRqv3OAOBzCl2Ey8Pq_CBP0oHSIscMbcpv3WmtrtNuzNbtcRQ-iAYpCNFcTEstOD6co0Vp9EVzrBS0FjbDSNQkaKSDMNR5rQaEYy0KNcT0nBbAX2ADEKag5nECBybL-tskD0NLtsTcAIZfeu9m61ffPsLvgvC9k8.FUdjbPPH7V9ovpLtKm4GGI3ffvkMTEVdoWCo0qzqg&dib_tag=se&keywords=launch+controller+for+model+rockets&qid=1719594312&sr=8-1"> Link </a> |
-|Golf Tubing|For Rocket Body|$19.99| <a href="https://www.amazon.com/sk=golf+tubes&crid=HUGNKQXWLLUU&sprefix=golf+tube%2Caps%2C163&ref=nb_sb_noss_1"> Link </a>|
-|Parachute|For Recovery|$8.99|<a href="https://www.amazon.com/Estes-2265-15-Parachute/dp/B00A4UXATY/ref=sr_1_5?crid=1V63U10AA549L&dib=eyJ2IjoiMSJ9.Bomfzm68ELMGa0ug6PVQdctUuf75xW5w5Peg82NHoXkwXYeTNNeHHlo7E_Mjwh8yD7U-HHk3cJk90iPa_0KLz25BvWXO61TkdiSh8VKdUedg3JW6gHa9PpML4aa3o_kASNUKkFtODDT7qjkbNbLEBrhRbuKdJ-35BfNWgMIEFs8I7OxQscqoF--pdNSfmaavdXL_UM4A9lSnlLgtki4jfBWOAowQ7ecckYfXM8A2YL_LwkZamTs5U1G23yzalfBRCCBljqQSBrssDYAtFtTGvBlODXBDxo7JqX71M1TNlyM.tsX5eJwmDNW_qJo5Z4nxGWmCAbNdE3bAzy0OMi2tDP8&dib_tag=se&keywords=model+rocket+parachute&qid=1719594606&sprefix=model+rocket+para%2Caps%2C163&sr=8-5"> Link </a>|
+|Frame|250mm|$19.99| <a href= "https://tinyurl.com/5adnwn5k"> Link </a>|
+|Motors| iFlight 2450 4-6S | $63.99 | <a href= "https://www.amazon.com/iFlight-2450KV-Brushless-Racing-Quadcopter/dp/B096RTCGDT/ref=sr_1_6?crid=3BFXSJ2M20BP2&dib=eyJ2IjoiMSJ9.Nn5t4vOg1oJ5njJkCQ4NKxCsWVxPlBi3B_QBNzj4XvsMrdJZ6gmFH1SZEuJ67_u1NUNklwMsF8V4X1y5l9sCmsUtMts5JFsX5NykjJmkOneGk8_1jKv7x0VipirnSIyat7M42_G5KqGNdSVHFTF2WiYUb1BAbw6ZiMwdOowuPS4J8UDlyApyClGmYHKYAgoJNjh51eD-C6HE_A02XtEgZLRgV-KwaW-KjyeNScuJfoXsiFamyyWNl0w8Bvy9wWjl4ZjGvPKQ7WGEJqmbMnSeYGCWvM5eMieJT6EE-3zqpx8.WslWjrvcRdIVv5KnV1ft82rA8hoYhJQ6xUdbIV2zbaM&dib_tag=se&keywords=T-Motor+F40+Pro+III+2306+2400KV&qid=1718304903&sprefix=t-motor+f40+pro+iii+2306+2400kv%2Caps%2C205&sr=8-6"> Link </a> |
+|Props|3 Blade|$15.99| <a href="https://www.amazon.com/HQProp-5x4-3x3V2S-Tri-Blade-Propeller-Quadcopter-Multirotor/dp/B0C8NSPPPH/ref=sr_1_5?crid=1E7WIFRS7C4NF&dib=eyJ2IjoiMSJ9.gzgLHeMpvvFAL8awHB4A4-NO8K2p9SZ_wJkQnBcYr3XyOfKbNF2C5jDZbV_AGVZfz5RdPMs4K8A2-D0vKLVgdOmQ7ddpM7gTOw1DZgVXfTDzuxdIVXQw5AkkFBs6UK7SlVcL-g0t8IR6HT0g__3rqS8nKhfKAfL8sGMSdptFw7cYN1Q6PU9RLbE1U3pafQpA3B2TU0M-KBHGZFPmgHerH6_y3nfDo740aqDyDT-9CP1NZq7FWXLWFrQKmEhDN3G4m1-MD8aaHHBM65n6bTABg2Jjqpd3Xf1R9ZwS2PznScE.yqt2BxxdmH6sQa6zv1lVhJ0923p9yMGsbw7PW847_Vc&dib_tag=se&keywords=HQProp+DP+5x4.3x3&qid=1718305152&sprefix=%2Caps%2C173&sr=8-5"> Link </a>|
+|Flight Controller/ESC|30x30mm|$65.99|<a href="https://www.speedybee.com/speedybee-f405-v4-bls-55a-30x30-fc-esc-stack/?gQT=1"> Link </a>|
+|Battery|4500mah|$78.99|<a href="https://www.amazon.com/OVONIC-4500mAh-Battery-Evader-Airplane/dp/B07CV9M1BN/ref=sr_1_2_sspa?crid=1NEUW2RGVB1XU&dib=eyJ2IjoiMSJ9.xWG4CiqMDnIpgLnBCbGz8SLeQmZBPVMtVA-T9Q3-GfWaKQv07OfpwIp7IsSnfp1PNs31U8PTKRv4F7uhJIQWCf02zOr1cLTQ4cZG-8YEw-nnDxDKJA4crTsfuEqk7Kw6D0jeUba43JHvCKDHrMN690q_1Fn8DSDQN0RIUZYhPfQ8LeoVamex_RC4DjyGm8QRgPMjPTS6LhXJ7PL84A9avLV_sA_c5MrOIn_u-K-wbvA2CsK4frT1E5s1Otjcorfll2NH8-XNVfnQgrdtWgVh3tFLdfl7JlScDgwZnn6uItY.5vqhMnmSRxTRGThL5Ti_3984nStgXcJ-zpo7BaCqv7E&dib_tag=se&keywords=4500+mah+4s+lipo+battery&qid=1735797837&sprefix=4500+mah+4s+lipo+battery%2Caps%2C229&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a>|
+|FPV Camera|RunCam Phoenix 2: BY FAR the best budget FPV Camera|$35.99| <a href= "https://www.amazon.com/RunCam-Phoenix-Joshua-1000TVL-Freestyle/dp/B0C2VBLM7W/ref=pd_ci_mcx_pspc_dp_d_2_t_1?pd_rd_w=s0szj&content-id=amzn1.sym.568f3b6b-5aad-4bfd-98ee-d827f03151e4&pf_rd_p=568f3b6b-5aad-4bfd-98ee-d827f03151e4&pf_rd_r=Y12D8DYGH60EXGCA7CAK&pd_rd_wg=Gs2KC&pd_rd_r=d9bfad04-46e9-4f78-b6bf-c0972ccd0766&pd_rd_i=B0C2TK5JGR&th=1"> Link </a>|
+|VTX|TBS|$39.99| <a href= "https://www.getfpv.com/tbs-unify-pro-5g8-v3-sma.html"> Link </a>|
+|Antenna|Foxeer|$20.99| <a href= "https://www.amazon.com/Usmile-Lollipop-Antenna-Quadcopter-Transmitter/dp/B07T61ZJDP/ref=sr_1_1?crid=1O980WWMAUUXX&dib=eyJ2IjoiMSJ9.o80FAQjrO9fcYPNre3IB3Kb8agTnr6L6bgqMrPbM1CAUlDdLADuYphjJTcoKGzF7yqi85gpi0K6P-lip5kEkJE7gooPJy8B5WCJX_gv6fAyd7O5iwgayq4tsYiR8CnIFiyA7rdAfrcwBXSLzz14Umj_JZEn43YPyb_9VkCywerX2TmRIqe10ru0Sj1DN3C5I.xxbYB-t8Dsa1FsHQNmYRmaKMRRtYkj82JuPlljmWj6Q&dib_tag=se&keywords=Foxeer%2Blollipop%2B3&qid=1720398901&sprefix=foxeer%2Blollipop%2B3%2Caps%2C162&sr=8-1&th=1"> Link </a>|
+|FPV Goggles|EV800D: Another GREAT budget option|$99.99| <a href= "https://www.getfpv.com/ev800d-5-8ghz-40ch-diversity-fpv-goggles-w-dvr.html"> Link </a>|
+
 
 |**Miscellaneous Parts/Tools**| **Note**|
 |:--:|:--:|
 |3D Printed Parts|Around $5 in PLA|
+|Heat Gun|$35|
+|Heatshrinks|$10|
+|Solder Wire|$15|
+|GoPro|Depends on Model|$200-$400|
+|GoPro Case/Mount|$10, make sure it can connect to other mounts|
 
 
 

@@ -10,22 +10,21 @@ This project was by far my favorite. It had the best end product, and I got to c
 
 ![Drone Gif](./images/Drone.gif)
 
-## To be Updated
 
-<!---# First Milestone
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eLJ4wtRUJ0Q?si=9Z-wYppHN6apqz7H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+# First Milestone
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cRPAQWzwTPM?si=8zcl0T2SV0Ht0J9L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Overview**\
-For this first milestone, it was about building a prototype. I wanted to see if my ideas would work in practice, so I just took any junk I could find and tested to see if it would work. 
+For this first milestone, it was about getting the drone up in the air, whatever that meant. So while the drone lacked a lot of capabilities or cool features, it could fly, and that was a good start. 
 
 **Accomplishments**\
-My main accomplishment is designing a model rocket from scratch. I took cardboard, golf club tubing, push pins, plastic champagne flutes, anything I could find to build a prototype. It did not need to be the most aerodynamic object in the world, I just wanted to test my theories and see if I could put something quick and simple together. 
+My main accomplishment is building a drone. I had never worked with such complicated electronics before, and this was a difficult but rewarding introduction. I became quite good at soldering, learned how to use a multimeter to check all my connections, and importantly I started to understand the ins and outs of electrical engineering. 
 
 **Challenges**\
-The biggest challenge had to be integrating. I took all these incompatible parts and had to find a way to put them all together. It was a super fun challenge to try to be creative in new ways to get everything to work. 
+The biggest challenge had to be soldering. I had soldered a little before this project, however it was no where to the degree of this projects volume or complexity. There were so many joints that I had to create and often they were in hard to reach places. However, I feel I have become quite capable with the soldering iron and I know that will serve me well for the future. 
 
 **Next Step**\
-For my next milestone, I plan to launch the rocket, see what works and what doesn't, and from there, see what parts I should design and 3D print for model two. 
+For my next milestone, I plan to integrate a camera system so I can film my flights. I'm hoping I can attach a GoPro to the drone in order to record the views the drone sees. 
 
 
 
@@ -34,8 +33,8 @@ For my next milestone, I plan to launch the rocket, see what works and what does
 - Technical details of what you've accomplished and how they contribute to the final goal
 - What has been surprising about the project so far
 - Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OAdHz1ghlD0?si=6XIEqs8O4W4EaHot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+- What needs to be completed before your final milestone--> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3wA4xzai6so?si=yb6nTVmsfMpsDycW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Overview**\
 This is the second milestone of my model rocket. This milestone was about learning to launch the rocket and then, in turn, learning from what works and what does not to make my final model. 
@@ -52,7 +51,7 @@ My next step is to design and 3D print all the parts I want for the final protot
 
 # Final Milestone
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ec7b5v9FoI8?si=OXt-W_M7n9x_Szlu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7Dy2yKRyk_c?si=bA4rlciMUSBTVUgt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **Overview**\
 This is the Final milestone of my foam 3D-printed model rocket. I successfully launched it and deployed the parachute for this milestone. 
@@ -64,25 +63,17 @@ Since the prior milestone, I've revamped almost the whole rocket. The body is sh
 The biggest challenge for this milestone was designing and printing the parts. I wasted a lot of time trying to figure out the best precision to print out the designs at. I started at just a millimeter, but had to move it up to 2.5 mm as the perfect combination of precision and room for error. It was also really hard learning to design and print a screw mechanism for the engine bay. 
 
 **Next Step**\
-For now, I am done with the rocket. I want to move on to other projects that I have in mind, like building a drone, but in the future, I do want to come back to it by adding a way for both the rocket and nose cone to come down safely.
+For now, I am done with this project. However, in the future I want to increase the autonomous abilities of the drone.
 
 # 3D Print Files
 
-## Launch Pad STLs
+## Drone STLs
 
-|**Leg Stand**|**Launch Rail**|**Mount**|
+|**GoPro Mount**|**FPV Camera Stand**|
 |:--:|:--:|:--:|
-|![Leg Stand](./images/LegStand.png)|![Pole](./images/Pole.png)|![Mount](./images/Mount.png)|
-|**Center Console**|**Cover**|**Assembly**|
-|![Stand](./images/Stand.png)|![Cover](./images/Cover.png)|![Assembly](./images/LaunchAssembly.png)|
+|![Leg Stand](./images/LegStand.png)|![Pole](./images/Pole.png)|
 
-## Model Rocket STLs
 
-|**Nose Cone**|**Fins**|**Launch Rail Guide**|
-|:--:|:--:|:--:|
-|![Nose Cone](./images/NoseCone.png)|![Fins](./images/Fins.png)|![Launch Rail Guide](./images/Holder.png)|
-|**Engine Holder**|**Holder Screw Top**|**Engine Holder Animation**|
-|![Engine Holder](./images/EngineHolder.png)|![Cover](./images/ScrewTop.png)|![Holder Gif](./images/Engine.gif)|
 
 
 
@@ -104,9 +95,10 @@ For now, I am done with the rocket. I want to move on to other projects that I h
 
 |**Miscellaneous Parts/Tools**| **Note**|
 |:--:|:--:|
-|3D Printed Parts|Around $10 in PLA|
+|3D Printed Parts|Around $5 in PLA|
 
 
 
 # Other Resources/Examples
-- <a href="https://www.youtube.com/watch?v=r2lDXoW78u0"> Design Inspiration </a>-->
+- <a href="https://www.youtube.com/watch?v=r2lDXoW78u0"> Design Inspiration </a>
+

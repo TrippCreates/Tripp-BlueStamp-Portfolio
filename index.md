@@ -3,7 +3,7 @@
 ## About Me
 Hi, I'm Gerald Thomas, but most people just call me Tripp. I'm a passionate maker and creator from Los Gatos High School. I love building things that satisfy my creative aspirations. My interests span various fields, including electronics, programming, 3D printing, and hardware. While many of my projects incorporate these various disciplines, I focus my interest mainly on Aerospace and Mechanical Engineering ventures. Explore my projects below to see what I've been working on.
 
-![Profile Picture](./images/Headshot.jpeg)
+![Profile Picture](./images/CoverPhoto.jpeg)
 
 
 ## [RC Foam Airplane](./plane.md)

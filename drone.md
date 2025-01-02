@@ -99,17 +99,17 @@ For now, I am done with this project. However, in the future I want to increase 
 |FPV Goggles|EV800D: Another GREAT budget option|$99.99| <a href= "https://www.getfpv.com/ev800d-5-8ghz-40ch-diversity-fpv-goggles-w-dvr.html"> Link </a>|
 
 
-|**Miscellaneous Parts/Tools**| **Note**|
-|:--:|:--:|
-|3D Printed Parts|Around $5 in PLA|
-|Heat Gun|$35|
-|Heatshrinks|$10|
-|Solder Wire|$15|
+|**Miscellaneous Parts/Tools**| **Note**|**Approximate Price**|
+|:--:|:--:|:--:|
+|3D Printed Parts|Not too much PLA for this build|$5|
+|Heat Gun|Buy any model that works|$35|
+|Heatshrinks|Ensure you buy/have different sizes|$10|
+|Solder Wire|I ended up using ALOT of solder for this build|$20|
 |GoPro|Depends on Model|$200-$400|
-|GoPro Case/Mount|$10, make sure it can connect to other mounts|
+|GoPro Case/Mount|Make sure it can connect to other mounts|$10|
 
 
 
 # Other Resources/Examples
-- <a href="https://www.youtube.com/watch?v=r2lDXoW78u0"> Design Inspiration </a>
+- <a href="https://www.youtube.com/watch?v=r2lDXoW78u0"> Joshua Bardwell's videos were HUGE in this project as he walked me through a lot of the more complex/niche parts of custom FPV building </a>
 

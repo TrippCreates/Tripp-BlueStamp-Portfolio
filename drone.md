@@ -111,5 +111,5 @@ For now, I am done with this project. However, in the future I want to increase 
 
 
 # Other Resources/Examples
-- <a href="https://www.youtube.com/watch?v=r2lDXoW78u0"> Joshua Bardwell's videos were HUGE in this project as he walked me through a lot of the more complex/niche parts of custom FPV building </a>
+- Joshua Bardwell's videos were HUGE in this project as he walked me through a lot of the more complex/niche parts of custom FPV building. Here's a <a href="https://www.youtube.com/watch?v=r2lDXoW78u0"> link </a>
 
